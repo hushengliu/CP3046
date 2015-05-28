@@ -1,0 +1,2 @@
+[21-May-2015 23:58:42 UTC] WordPress database error Can't DROP 'slug'; check that column/key exists for query ALTER TABLE wp_terms DROP INDEX slug, ADD INDEX slug(slug(191)) made by wp_upgrade, pre_schema_upgrade
+[22-May-2015 00:25:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/acmea2015/public_html/wp-content/plugins/upme/registration/upme-register.php on line 61
