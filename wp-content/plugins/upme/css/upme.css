@@ -1,0 +1,441 @@
+div.upme-wrap {
+	float: left;
+	width: 100%;
+	max-width: 100%;
+	font-family: Open Sans;
+	margin: 0 0 20px 0;
+}
+
+div.upme-wrap p {
+	padding: 0;
+	margin: 0;
+}
+
+div.upme-wrap div.upme-inner {
+	border-radius: 3px;
+	padding: 0;
+	margin: 0;
+}
+
+div.upme-wrap div.upme-field-value iframe {
+	margin: 8px 0 0 0;
+}
+
+div.upme-wrap .upme-head img, div.upme-wrap div.upme-field-value img{
+	display: block;
+	overflow: hidden;
+	box-shadow: none;
+	margin: 0;
+	padding: 0;
+}
+
+div.upme-wrap .upme-head img.avatar-50 {
+	width: 50px;
+	height: 50px;
+}
+
+div.upme-head {
+	padding: 15px 20px;
+	margin: 0;
+}
+
+div.upme-wrap div.upme-head img.avatar {
+	padding: 5px;
+	border-radius: 50px;
+	margin: 0;
+}
+
+div.upme-wrap div.upme-field-value img {
+	padding: 5px;
+	border-radius: 5px;
+	margin: 0;
+	max-width: 94%;
+}
+
+div.upme-wrap div.upme-field-value img.upme-img-normal {
+	float: left;
+	display: inline;
+	padding: 0;
+	border: 0;
+	border-radius: 0;
+	width: auto;
+	margin: 8px 10px 0 0;
+}
+
+div.upme-wrap div.upme-pic {
+	float: left;
+	margin: 0 20px 0 0;
+}
+
+div.upme-wrap div.upme-social {
+	float: right;
+}
+
+div.upme-social div {
+	float: left;
+	padding: 0 0 15px 10px;
+}
+
+div.upme-social a {
+	text-decoration: none;
+	float: left;
+	width: 24px;
+	height: 24px;
+	line-height: 24px;
+	border-radius: 999px;
+	text-align: center;
+	font-size: 12px;
+}
+
+div.upme-wrap div.upme-head div.upme-social div a i {
+	position: relative;
+	top: auto;
+	line-height: 24px;
+}
+
+div.upme-stats {
+	float: right;
+	padding: 0;
+	margin: 0;
+}
+
+.upme-stats-i {
+	float: left;
+	font-size: 11px;
+	text-transform: uppercase;
+	padding: 0 0 0 15px;
+}
+
+.upme-stats-i i {
+	margin: 0 6px 0 0;
+	font-size: 13px;
+}
+
+div.upme-clear {
+	clear: both;
+	margin: 0;
+	padding: 0;
+}
+
+div.upme-wrap div.upme-name {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+div.upme-right {
+	float: right;
+	padding: 0;
+	margin: 0;
+}
+
+div.upme-left {
+	float: left;
+	padding: 0;
+	margin: 0;
+}
+
+div.upme-field-name {
+	font-size: 24px;
+	line-height: 24px;
+}
+
+div.upme-field-name a {
+	text-decoration: none;
+}
+
+.upme-field-name-wide {
+	padding: 18px 0 0 0;
+}
+
+.upme-field-edit {
+	margin: 10px 0 0 0;
+}
+
+.upme-main * {
+	margin: 0;
+}
+
+.upme-main {
+	padding: 20px 35px 0 35px;
+	font-size: 14px;
+}
+
+.upme-main-compact {
+	display: none;
+}
+
+.upme-field-type i {
+	float: left;
+	width: 26px;
+	height: 26px;
+	line-height: 26px;
+	margin: 0 14px 0 0;
+	border-radius: 999px;
+	text-align: center;
+	position: relative;
+	top: auto;
+}
+
+.upme-field-type i.icon-none {
+	background: none;
+}
+
+.upme-field {
+	float: left;
+	width: 100%;
+	padding: 0 0 20px 0;
+	margin: 0;
+}
+
+.upme-field-type {
+	float: left;
+	width: 34%;
+}
+
+.upme-field-value {
+	float: left;
+	width: 66%;
+}
+
+.upme-field-type span, .upme-field-value span {
+	float: left;
+	line-height: 26px;
+}
+
+div.upme-field-value input[type=file] {
+	display: none;
+}
+
+label.upme-radio {
+	cursor: pointer;
+	float: left;
+	margin: 0 20px 0 0;
+	width: 150px;
+}
+
+label.upme-radio input[type=radio] {
+	position: relative;
+	top: 2px;
+}
+
+label.upme-checkbox {
+	cursor: pointer;
+	float: left;
+	margin: 0 20px 0 0;
+	width: 150px;
+}
+
+label.upme-checkbox input[type=checkbox] {
+	position: relative;
+	top: 2px;
+}
+
+input.upme-input, select.upme-input, textarea.upme-input {
+	font-family: Open Sans;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	font-size: 14px;
+	padding: 6px;
+    width: 100%;
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+	margin: 0;
+}
+
+select.upme-input {
+	width: auto;
+}
+
+textarea.upme-input {
+	line-height: 20px;
+	height: 80px;
+	font-size: 13px;
+}
+
+.upme-help{
+	float: left;
+	margin: 8px 0 0 0;
+	font-family: Tahoma;
+	font-size: 11px;
+	line-height: 17px;
+}
+
+.upme-note {
+	font-size: 13px;
+	line-height: 20px;
+	margin: 0 0 10px 0;
+}
+
+.upme-hide-from-public {
+	float: left;
+	cursor: pointer;
+	margin: 8px 0 0 0;
+	font-family: Tahoma;
+	font-size: 11px;
+	line-height: 17px;
+}
+
+.upme-rememberme {
+	margin: 15px 0 0 0;
+}
+
+.upme-hide-from-public i {
+	font-size: 13px;
+	margin: 0 6px 0 0;
+	position: relative;
+	top: 1px;
+}
+
+.upme-disable, .upme-disable i {
+	cursor: default;
+}
+
+.upme-edit {
+	display: none;
+}
+
+.upme-edit-show {
+	display: block;
+}
+
+.upme-seperator {
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+a.upme-button-alt, div.upme-button-alt, input.upme-button-alt {
+	font-size: 11px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	padding: 4px 10px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+a.upme-button, input[type=submit].upme-button {
+	font-size: 12px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	padding: 4px 10px;
+	cursor: pointer;
+	text-decoration: none;
+	margin: 0;
+}
+
+div.upme-errors, div.upme-success {
+	display: block;
+	padding: 8px 15px;
+	font-size: 12px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	margin: 0 0 20px 0;
+}
+
+span.upme-error {
+	line-height: 18px;
+	padding: 2px 0;
+}
+
+span.upme-error-block {
+	display: block;
+}
+
+.upme-error i {
+	margin: 0 10px 0 0;
+}
+
+div.upme-success span {
+	line-height: 18px;
+	padding: 2px 0;
+}
+
+div.upme-success i {
+	margin: 0 10px 0 0;
+}
+
+/* Pagination */
+div.upme-navi {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+	text-align: center;
+}
+
+div.upme-navi  .page {
+    display: inline-block;
+    padding: 0px 9px;
+    margin-right: 4px;
+    border-radius: 3px;
+    border: solid 1px #c0c0c0;
+    background: #e9e9e9;
+    box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1);
+    font-size: .875em;
+    font-weight: bold;
+    text-decoration: none;
+    color: #717171;
+    text-shadow: 0px 1px 0px rgba(255,255,255, 1);
+}
+
+div.upme-navi .page:hover, div.upme-navi .page.gradient:hover {
+    background: #fefefe;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FEFEFE), to(#f0f0f0));
+    background: -moz-linear-gradient(0% 0% 270deg,#FEFEFE, #f0f0f0);
+}
+
+div.upme-navi .page.active {
+    border: none;
+    background: #616161;
+    box-shadow: inset 0px 0px 8px rgba(0,0,0, .5), 0px 1px 0px rgba(255,255,255, .8);
+    color: #f0f0f0;
+    text-shadow: 0px 0px 3px rgba(0,0,0, .5);
+}
+
+div.upme-navi .page.gradient {
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f8f8f8), to(#e9e9e9));
+    background: -moz-linear-gradient(0% 0% 270deg,#f8f8f8, #e9e9e9);
+}
+
+/* Search form */
+div.upme-wrap-form form p input.upme-button-alt {
+	font-size: 13px;
+	padding: 4px 10px;
+}
+
+div.upme-wrap-form div.upme-inner div.upme-head{
+	font-size: 16px;
+	color: #666;
+	padding: 10px 20px;
+}
+
+div.upme-wrap-form form {
+	padding: 20px 20px 0 20px;
+	margin: 0;
+}
+
+div.upme-wrap-form form p.upme-p {
+	padding: 0;
+	margin-bottom: 0;
+	float: left;
+	width: 100%;
+}
+
+div.upme-wrap-form form input {
+	margin: 0 0 20px 0;
+}
+
+input.upme-input-left {
+	float: left;
+	width: 47%;
+}
+
+input.upme-input-right {
+	float: right;
+	width: 47%;
+}

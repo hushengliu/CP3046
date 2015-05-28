@@ -1,0 +1,1962 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LayerSliders\n"
+"POT-Creation-Date: 2013-12-14 13:39+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: weidea <130200251@qq.com>\n"
+"Language-Team: weidea <130200251@qq.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: _e;__;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../add.php:49 ../add.php:1016 ../edit.php:53 ../edit.php:1033
+msgid "Slide Options"
+msgstr "幻灯片选项"
+
+#: ../add.php:50 ../add.php:1017 ../edit.php:54 ../edit.php:1034
+msgid "Duplicate this slide"
+msgstr "复制这个幻灯片"
+
+#: ../add.php:61 ../add.php:1028 ../edit.php:65 ../edit.php:1045
+msgid "Slide options"
+msgstr "幻灯片选项"
+
+#: ../add.php:62 ../add.php:285 ../add.php:1029 ../add.php:1252 ../edit.php:66
+#: ../edit.php:289 ../edit.php:1046 ../edit.php:1274
+msgid "Image"
+msgstr "图像"
+
+#: ../add.php:65 ../add.php:1032 ../edit.php:69 ../edit.php:1049
+msgid ""
+"The slide image/background. Click into the field to open the WordPress Media "
+"Library to choose or upload an image."
+msgstr "幻灯片图像/背景。到字段中点击打开WordPress的媒体库选择或上传图片。"
+
+#: ../add.php:69 ../add.php:1036 ../edit.php:73 ../edit.php:1053
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: ../add.php:72 ../add.php:1039 ../edit.php:76 ../edit.php:1056
+msgid ""
+"The thumbnail image of this slide. Click into the field to open the "
+"WordPress Media Library to choose or upload an image. If you leave this "
+"field empty, the slide image will be used."
+msgstr ""
+"这张幻灯片的缩略图。到字段中点击打开WordPress的媒体库选择或上传图片。如果你离"
+"开这个字段为空，幻灯片图像将被使用。"
+
+#: ../add.php:76 ../add.php:1043 ../edit.php:80 ../edit.php:1060
+msgid "Slide delay"
+msgstr "滑动延迟"
+
+#: ../add.php:77 ../add.php:1044 ../edit.php:81 ../edit.php:1061
+msgid ""
+"Here you can set the time interval between slide changes, this slide will "
+"stay visible for the time specified here. This value is in millisecs, so the "
+"value 1000 means 1 second. Please don't use 0 or very low values."
+msgstr ""
+"在这里你可以设置幻灯片的变化之间的时间间隔，此处指定的时间这幻灯片将保持可"
+"见。这个值是毫秒数，所以值1000表示1秒。请不要使用0或非常低值。"
+
+#: ../add.php:80 ../add.php:1047 ../edit.php:84 ../edit.php:1064
+msgid "Slide transition"
+msgstr "幻灯片过渡"
+
+#: ../add.php:83 ../add.php:1050 ../edit.php:87 ../edit.php:1067
+msgid ""
+"You can choose between the old and the new 3D/2D slide transitions "
+"introduced in version 4.0.0."
+msgstr "您可以选择4.0.0版本介绍了旧的和新的3D/2D幻灯片过渡。"
+
+#: ../add.php:87 ../add.php:1054 ../edit.php:91 ../edit.php:1071
+msgid "Transitions"
+msgstr "过渡"
+
+#: ../add.php:88 ../add.php:1055 ../builder.php:262 ../builder.php:484
+#: ../builder.php:783 ../builder.php:1038 ../edit.php:92 ../edit.php:1072
+msgid "Direction"
+msgstr "方向"
+
+#: ../add.php:91 ../add.php:1058 ../edit.php:95 ../edit.php:1075
+msgid "The slide will slide in from this direction."
+msgstr "滑块会从这个方向滑动。"
+
+#: ../add.php:92 ../add.php:1059 ../edit.php:96 ../edit.php:1076
+msgid "top"
+msgstr "顶部"
+
+#: ../add.php:93 ../add.php:1060 ../edit.php:97 ../edit.php:1077
+msgid "right"
+msgstr "右"
+
+#: ../add.php:94 ../add.php:1061 ../edit.php:98 ../edit.php:1078
+msgid "bottom"
+msgstr "底部"
+
+#: ../add.php:95 ../add.php:1062 ../edit.php:99 ../edit.php:1079
+msgid "left"
+msgstr "左"
+
+#: ../add.php:97 ../add.php:1064 ../edit.php:101 ../edit.php:1081
+msgid ""
+"You can select your desired slide transitions by clicking on this button."
+msgstr "按一下这个按钮，您可以选择您所需的幻灯片过渡。"
+
+#: ../add.php:99 ../add.php:1066 ../edit.php:103 ../edit.php:1083
+msgid "Time shift"
+msgstr "时移"
+
+#: ../add.php:100
+msgid ""
+"You can control here the timing of the layer animations  when the slider "
+"changes to this slider with a 3D/2D transition. Zero means that the layers "
+"of this slide will animate in when the slide transition ends. You can time-"
+"shift the starting time of the layer animations with positive or negative "
+"values."
+msgstr ""
+"你可以在这里控制层动画的定时，当滑块改变至此滑动与3D/2D过渡。零意味着这张幻灯"
+"片层将动画的幻灯片过渡结束时，您可以时移层动画的开始时间正值或负值。"
+
+#: ../add.php:103 ../add.php:1070 ../edit.php:107 ../edit.php:1087
+msgid "Slide in"
+msgstr "滑入"
+
+#: ../add.php:104 ../add.php:148 ../add.php:363 ../add.php:429 ../add.php:1071
+#: ../add.php:1115 ../add.php:1330 ../add.php:1397 ../builder.php:169
+#: ../builder.php:226 ../builder.php:305 ../builder.php:435 ../builder.php:677
+#: ../builder.php:747 ../builder.php:835 ../builder.php:989 ../edit.php:108
+#: ../edit.php:152 ../edit.php:367 ../edit.php:434 ../edit.php:1088
+#: ../edit.php:1132 ../edit.php:1353 ../edit.php:1420
+msgid "Duration"
+msgstr "持续时间"
+
+#: ../add.php:105 ../add.php:1072 ../edit.php:109 ../edit.php:1089
+msgid ""
+"The duration of the slide in animation. This value is in millisecs, so the "
+"value 1000 means 1 second."
+msgstr "滑动动画的持续时间。这个值是毫秒数，所以值1000表示1秒。"
+
+#: ../add.php:106 ../add.php:150 ../add.php:365 ../add.php:431 ../add.php:1073
+#: ../add.php:1117 ../add.php:1332 ../add.php:1399 ../builder.php:171
+#: ../builder.php:228 ../builder.php:307 ../builder.php:437 ../builder.php:679
+#: ../builder.php:749 ../builder.php:837 ../builder.php:991 ../edit.php:110
+#: ../edit.php:154 ../edit.php:369 ../edit.php:436 ../edit.php:1090
+#: ../edit.php:1134 ../edit.php:1355 ../edit.php:1422
+msgid "Easing"
+msgstr "缓解"
+
+#: ../add.php:108 ../add.php:152 ../add.php:1075 ../add.php:1119
+#: ../edit.php:112 ../edit.php:156 ../edit.php:1092 ../edit.php:1136
+msgid ""
+"The timing function of the animation, with it you can manipualte the slide "
+"movement. Please click on the link next to this select field to open easings."
+"net for more information and real-time examples."
+msgstr ""
+"动画的计时功能，有了它你可以控制幻灯片运动。请单击这个选择字段旁边的链接，打"
+"开easings.net获取更多的信息和实时的例子。"
+
+#: ../add.php:143 ../add.php:1110 ../edit.php:147 ../edit.php:1127
+msgid "Delay in"
+msgstr "延迟中"
+
+#: ../add.php:144 ../add.php:1111 ../edit.php:148 ../edit.php:1128
+msgid ""
+"Delay before the animation start when the slide slides in. This value is in "
+"millisecs, so the value 1000 means 1 second."
+msgstr "延迟的动画开始之前滑动滑入时。这个值是毫秒数，所以值1000表示1秒。"
+
+#: ../add.php:147 ../add.php:1114 ../edit.php:151 ../edit.php:1131
+msgid "Slide out"
+msgstr "滑出"
+
+#: ../add.php:149 ../add.php:1116 ../edit.php:153 ../edit.php:1133
+msgid ""
+"The duration of the slide out animation. This value is in millisecs, so the "
+"value 1000 means 1 second."
+msgstr "滑出动画的持续时间。这个值是毫秒数，所以值1000表示1秒。"
+
+#: ../add.php:187 ../add.php:1154 ../edit.php:191 ../edit.php:1171
+msgid "Delay out"
+msgstr "延迟出"
+
+#: ../add.php:188 ../add.php:1155 ../edit.php:192 ../edit.php:1172
+msgid ""
+"Delay before the animation start when the slide slides out. This value is in "
+"millisecs, so the value 1000 means 1 second."
+msgstr "延迟的动画开始之前滑动滑出时。这个值是毫秒数，所以值1000表示1秒。"
+
+#: ../add.php:191 ../add.php:1158 ../edit.php:195
+msgid "Link this slide"
+msgstr "链接这张幻灯片"
+
+#: ../add.php:192 ../add.php:1159 ../edit.php:196 ../edit.php:1176
+msgid "Link URL"
+msgstr "链接网址"
+
+#: ../add.php:193 ../add.php:1160 ../edit.php:197 ../edit.php:1177
+msgid "If you want to link the whole slide, enter the URL of your link here."
+msgstr "如果您要整个幻灯片链接，请在这里输入你的链接网址。"
+
+#: ../add.php:194 ../add.php:1161 ../edit.php:198 ../edit.php:1178
+msgid "Link target"
+msgstr "链接目标"
+
+#: ../add.php:196 ../add.php:1163 ../edit.php:200 ../edit.php:1181
+msgid ""
+"You can control here the link behaviour: _self means the linked page will "
+"open in the current tab/window, _blank will create a new tab/window."
+msgstr ""
+"在这里您可以控制​​链接行为：_self表示在当前标签/窗口将打开所链接的页面， _blank"
+"将创建一个新的标签/窗口。"
+
+#: ../add.php:207 ../add.php:562 ../add.php:917 ../add.php:1174
+#: ../add.php:1530 ../edit.php:211 ../edit.php:567 ../edit.php:927
+#: ../edit.php:1192 ../edit.php:1554
+msgid "Misc"
+msgstr "杂项"
+
+#: ../add.php:208 ../add.php:1175 ../edit.php:212 ../edit.php:1193
+msgid "#ID"
+msgstr "#ID"
+
+#: ../add.php:209 ../add.php:1176 ../edit.php:213 ../edit.php:1194
+msgid ""
+"You can apply an ID attribute on the HTML element of this slide to work with "
+"it in your custom CSS or Javascript code."
+msgstr ""
+"你可以申请一个自定义CSS或Javascript代码的HTML元素的ID属性在这张幻灯片上工作。"
+
+#: ../add.php:210 ../add.php:1177 ../edit.php:214 ../edit.php:1195
+msgid "Deeplink"
+msgstr "深层链接"
+
+#: ../add.php:211 ../add.php:1178 ../edit.php:215 ../edit.php:1196
+msgid ""
+"You can specify a slide alias name which you can use in your URLs with a "
+"hash mark, so LayerSlider will start with the correspondig slide."
+msgstr "您可以指定一个别名用作URL标记，这样分层滑块将开始相应滑动。"
+
+#: ../add.php:212 ../add.php:489 ../add.php:1179 ../add.php:1457
+#: ../edit.php:216 ../edit.php:494 ../edit.php:1197 ../edit.php:1480
+msgid "Hidden"
+msgstr "隐"
+
+#: ../add.php:213 ../add.php:1180 ../edit.php:217 ../edit.php:1198
+msgid ""
+"If you don't want to use this slide in your front-page, but you want to keep "
+"it, you can hide it with this switch."
+msgstr "如果您不希望使用该幻灯片在你前面的页，但你想保留它，你可以隐藏此开关。"
+
+#: ../add.php:222 ../add.php:1189 ../builder.php:93 ../builder.php:375
+#: ../builder.php:595 ../builder.php:927 ../edit.php:226 ../edit.php:1207
+msgid "Preview"
+msgstr "预览"
+
+#: ../add.php:234 ../add.php:1201 ../edit.php:238 ../edit.php:1219
+msgid "Enter Preview"
+msgstr "输入预览"
+
+#: ../add.php:245 ../add.php:1212 ../edit.php:249 ../edit.php:1230
+msgid "Layers"
+msgstr "层"
+
+#: ../add.php:260 ../add.php:650 ../add.php:1227 ../edit.php:264
+#: ../edit.php:655 ../edit.php:1249
+msgid "Basic"
+msgstr "基本的"
+
+#: ../add.php:261 ../add.php:1228 ../edit.php:265 ../edit.php:1250
+msgid "Options"
+msgstr "选项"
+
+#: ../add.php:262 ../add.php:1229 ../edit.php:266 ../edit.php:1251
+msgid "Link"
+msgstr "链接"
+
+#: ../add.php:263 ../add.php:1230 ../edit.php:267 ../edit.php:1252
+msgid "Style"
+msgstr "风格"
+
+#: ../add.php:264 ../add.php:582 ../add.php:1231 ../add.php:1550
+#: ../edit.php:268 ../edit.php:587 ../edit.php:1253 ../edit.php:1574
+msgid "Attributes"
+msgstr "属性"
+
+#: ../add.php:265 ../add.php:1232 ../edit.php:269
+msgid "Remove this layer"
+msgstr "清除这层"
+
+#: ../add.php:290 ../add.php:1257 ../edit.php:294 ../edit.php:1279
+msgid "Div / Video"
+msgstr "DIV/视频"
+
+#: ../add.php:295 ../add.php:1262 ../edit.php:299 ../edit.php:1284
+msgid "Paragraph"
+msgstr "段落"
+
+#: ../add.php:300 ../add.php:1267 ../edit.php:304 ../edit.php:1289
+msgid "Span"
+msgstr "Span"
+
+#: ../add.php:305 ../add.php:1272 ../edit.php:309 ../edit.php:1294
+msgid "H1"
+msgstr "H1"
+
+#: ../add.php:310 ../add.php:1277 ../edit.php:314 ../edit.php:1299
+msgid "H2"
+msgstr "H2"
+
+#: ../add.php:315 ../add.php:1282 ../edit.php:319 ../edit.php:1304
+msgid "H3"
+msgstr "H3"
+
+#: ../add.php:320 ../add.php:1287 ../edit.php:324 ../edit.php:1309
+msgid "H4"
+msgstr "H4"
+
+#: ../add.php:325 ../add.php:1292 ../edit.php:329 ../edit.php:1314
+msgid "H5"
+msgstr "H5"
+
+#: ../add.php:330 ../add.php:1297 ../edit.php:334 ../edit.php:1319
+msgid "H6"
+msgstr "H6"
+
+#: ../add.php:338 ../add.php:1305 ../edit.php:342 ../edit.php:1328
+msgid ""
+"Click into this text field to open WordPress Media Library where you can "
+"upload new images or select previously used ones."
+msgstr ""
+"点击这个文本字段打开WordPress媒体库，您可以上传新的图片或选择以前用过的。"
+
+#: ../add.php:343 ../add.php:1310 ../edit.php:347 ../edit.php:1333
+msgid "Custom HTML content"
+msgstr "自定义HTML内容"
+
+#: ../add.php:344 ../add.php:1311 ../edit.php:348 ../edit.php:1334
+msgid ""
+"Type here the contents of your layer. You can use any HTML codes in this "
+"field to insert other contents then text. This field is also shortcode-"
+"aware, so you can insert content from other plugins as well as video embed "
+"codes."
+msgstr ""
+"在这里输入你的层的内容。在此字段中，你可以使用任何HTML代码，然后插入其他内容"
+"的文字。此字段也是简码识别，所以你可以从其他的插件，以及视频嵌入代码插入内"
+"容。"
+
+#: ../add.php:351 ../add.php:1318 ../edit.php:355 ../edit.php:1341
+msgid "Transition in"
+msgstr "过渡中"
+
+#: ../add.php:352 ../add.php:418 ../add.php:1319 ../add.php:1386
+#: ../builder.php:476 ../builder.php:1030 ../edit.php:356 ../edit.php:423
+#: ../edit.php:1342 ../edit.php:1409
+msgid "Type"
+msgstr "类型"
+
+#: ../add.php:354 ../add.php:420 ../add.php:1321 ../add.php:1388
+#: ../edit.php:358 ../edit.php:425 ../edit.php:1344 ../edit.php:1411
+msgid "The type of the transition."
+msgstr "不同的过渡。"
+
+#: ../add.php:355 ../add.php:421 ../add.php:1322 ../add.php:1389
+#: ../builder.php:480 ../builder.php:1034 ../edit.php:359 ../edit.php:426
+#: ../edit.php:1345 ../edit.php:1412
+msgid "Fade"
+msgstr "淡入淡出"
+
+#: ../add.php:356 ../add.php:1323 ../edit.php:360 ../edit.php:1346
+msgid "Auto (Slide from auto direction)"
+msgstr "自动（幻灯片从自动方向）"
+
+#: ../add.php:357 ../add.php:1324 ../edit.php:361 ../edit.php:1347
+msgid "Top (Slide from top)"
+msgstr "顶部（从顶部滑入）"
+
+#: ../add.php:358 ../add.php:1325 ../edit.php:362 ../edit.php:1348
+msgid "Right (Slide from right)"
+msgstr "右（从右边滑入）"
+
+#: ../add.php:359 ../add.php:1326 ../edit.php:363 ../edit.php:1349
+msgid "Bottom (Slide from bottom)"
+msgstr "底部（从底部滑动）"
+
+#: ../add.php:360 ../add.php:1327 ../edit.php:364 ../edit.php:1350
+msgid "Left (Slide from left)"
+msgstr "左（从左边滑入）"
+
+#: ../add.php:364 ../add.php:1331 ../edit.php:368 ../edit.php:1354
+msgid ""
+"The duration of the slide in animation. This value is in millisecs, so the "
+"value 1000 means 1 second. Lower values results faster animations."
+msgstr ""
+"滑动动画的持续时间。这个值是毫秒数，所以值1000表示1秒。较低的值会导致更快的动"
+"画。"
+
+#: ../add.php:367 ../add.php:433 ../add.php:1334 ../add.php:1401
+#: ../edit.php:371 ../edit.php:438 ../edit.php:1357 ../edit.php:1424
+msgid ""
+"The timing function of the animation, with it you can manipualte the layer "
+"movement. Please click on the link next to this select field to open easings."
+"net for more information and real-time examples."
+msgstr ""
+"动画的计时功能，有了它你可以控制层运动。请单击这个选择字段旁边的链接，打开"
+"easings.net获取更多信息和实时的例子。"
+
+#: ../add.php:402 ../add.php:468 ../add.php:1369 ../add.php:1436
+#: ../builder.php:132 ../builder.php:211 ../builder.php:287 ../builder.php:347
+#: ../builder.php:414 ../builder.php:636 ../builder.php:732 ../builder.php:813
+#: ../builder.php:890 ../builder.php:968 ../edit.php:406 ../edit.php:473
+#: ../edit.php:1392 ../edit.php:1459
+msgid "Delay"
+msgstr "延迟"
+
+#: ../add.php:403 ../add.php:1370 ../edit.php:407 ../edit.php:1393
+msgid ""
+"Delay before the animation start when the layer slides in. This value is in "
+"millisecs, so the value 1000 means 1 second."
+msgstr "延迟动画开始前层滑入时。这个值是毫秒数，所以值1000表示1秒。"
+
+#: ../add.php:406 ../add.php:473 ../add.php:1374 ../add.php:1441
+#: ../edit.php:411 ../edit.php:478 ../edit.php:1397 ../edit.php:1464
+msgid "Rotation"
+msgstr "自转"
+
+#: ../add.php:408 ../add.php:475 ../add.php:1376 ../add.php:1443
+#: ../builder.php:508 ../builder.php:1062 ../edit.php:413 ../edit.php:480
+#: ../edit.php:1399 ../edit.php:1466
+msgid "Scale"
+msgstr "规模"
+
+#: ../add.php:417 ../add.php:1385 ../edit.php:422 ../edit.php:1408
+msgid "Transition out"
+msgstr "过渡出"
+
+#: ../add.php:422 ../add.php:1390 ../edit.php:427 ../edit.php:1413
+msgid "Auto (Slide to auto direction)"
+msgstr "自动（幻灯片自动方向）"
+
+#: ../add.php:423 ../add.php:1391 ../edit.php:428 ../edit.php:1414
+msgid "Top (Slide to top)"
+msgstr "顶部（滑动至顶部）"
+
+#: ../add.php:424 ../add.php:1392 ../edit.php:429 ../edit.php:1415
+msgid "Right (Slide to right)"
+msgstr "右（滑动到右边）"
+
+#: ../add.php:425 ../add.php:1393 ../edit.php:430 ../edit.php:1416
+msgid "Bottom (Slide to bottom)"
+msgstr "底部（滑动到底部）"
+
+#: ../add.php:426 ../add.php:1394 ../edit.php:431 ../edit.php:1417
+msgid "Left (Slide to left)"
+msgstr "左（滑动至左边）"
+
+#: ../add.php:430 ../add.php:1398 ../edit.php:435 ../edit.php:1421
+msgid ""
+"The duration of the slide out animation. This value is in millisecs, so the "
+"value 1000 means 1 second. Lower values results faster animations."
+msgstr ""
+"滑出动画的持续时间。这个值是毫秒数，所以值1000表示1秒。较低的值会导致更快的动"
+"画。"
+
+#: ../add.php:469 ../add.php:1437 ../edit.php:474 ../edit.php:1460
+msgid ""
+"Delay before the animation start when the layer slides out. This value is in "
+"millisecs, so the value 1000 means 1 second."
+msgstr "延迟动画开始前层滑出时。这个值是毫秒数，所以值1000表示1秒。"
+
+#: ../add.php:484 ../add.php:1452 ../edit.php:489 ../edit.php:1475
+msgid "Other options"
+msgstr "其他选项"
+
+#: ../add.php:485 ../add.php:1453 ../edit.php:490 ../edit.php:1476
+msgid "Distance"
+msgstr "距离"
+
+#: ../add.php:486 ../add.php:1454 ../edit.php:491 ../edit.php:1477
+msgid ""
+"The default value is -1 which means that the layer will be positioned "
+"exactly outside of the slide container. You can use the default setting in "
+"most of the cases. If you need to set the start or end position of the layer "
+"from further of the edges of the slide container, you can use 2, 3 or higher "
+"values."
+msgstr ""
+"默认值是-1，表示该层将被准确地定位滑动容器之外。在大多数情况下，您可以使用默"
+"认设置。如果您需要进一步幻灯片容器边缘层设置的开始或结束位置，你可以使用2，3"
+"或更高的值。"
+
+#: ../add.php:487 ../add.php:1455 ../edit.php:492 ../edit.php:1478
+msgid "Show until"
+msgstr "显示直到"
+
+#: ../add.php:488 ../add.php:1456 ../edit.php:493 ../edit.php:1479
+msgid ""
+"The layer will be visible for the time you specify here, then it will slide "
+"out. You can use this setting for layers to leave the slide before the slide "
+"itself animates out, or for example before other layers will slide in. This "
+"value in millisecs, so the value 1000 means 1 second."
+msgstr ""
+"您在此处指定的时间，该层将是可见的，那么它会滑出。您可以在幻灯片本身的动画出"
+"来之前使用此设置层离开幻灯片或者例如在其他层滑入。此值的毫秒数，所以值1000表"
+"示1秒。"
+
+#: ../add.php:490 ../add.php:1458 ../edit.php:495 ../edit.php:1481
+msgid ""
+"If you don't want to use this layer, but you want to keep it, you can hide "
+"it with this switch."
+msgstr "如果您不希望使用这一层，但你想保留它，你可以隐藏此开关。"
+
+#: ../add.php:491 ../add.php:1459 ../edit.php:496 ../edit.php:1482
+msgid ""
+"If you will use similar settings for other layers or you want to experiment "
+"on a copy, you can duplicate this layer."
+msgstr ""
+"如果你会使用类似的设定给其他的层或者你想尝试的副本上，您可以复制这一层。"
+
+#: ../add.php:491 ../add.php:1459 ../edit.php:496 ../edit.php:1482
+msgid "Duplicate this layer"
+msgstr "复制这一层"
+
+#: ../add.php:499 ../add.php:1467 ../edit.php:504 ../edit.php:1490
+msgid "URL"
+msgstr "URL"
+
+#: ../add.php:500 ../add.php:1468 ../edit.php:505 ../edit.php:1491
+msgid ""
+"If you want to link your layer, type here the URL. You can use a hash mark "
+"followed by a number to link this layer to another slide. Example: #3 - this "
+"will switch to the third slide."
+msgstr ""
+
+#: ../add.php:502 ../add.php:1470 ../edit.php:507 ../edit.php:1493
+msgid ""
+"You can control here the link behaviour: _self means the linked page will "
+"open in the current tab/window, _blank will open it in a new tab/window."
+msgstr ""
+"在这里您可以控制​​链接行为：_self表示在当前标签/窗口将打开所链接的页面，_blank"
+"将打开一个新的标签/窗口。"
+
+#: ../add.php:518 ../add.php:1486 ../edit.php:523 ../edit.php:1510
+msgid "Layout & Positions"
+msgstr "布局&位置"
+
+#: ../add.php:519 ../add.php:656 ../add.php:1487 ../edit.php:524
+#: ../edit.php:1511
+msgid "Width"
+msgstr "宽度"
+
+#: ../add.php:520 ../add.php:1488 ../edit.php:525 ../edit.php:1512
+#, fuzzy, php-format
+msgid ""
+"You can set the width of your layer. You can use pixels, percents, or the "
+"default value 'auto'. Examples: 100px, 50% or auto"
+msgstr ""
+"你可以设置你的层的宽度。您可以使用像素，百分比，或者默认值“自动”。例如："
+"100px，50％或自动"
+
+#: ../add.php:521 ../add.php:661 ../add.php:1489 ../edit.php:526
+#: ../edit.php:1513
+msgid "Height"
+msgstr "高度"
+
+#: ../add.php:522 ../add.php:1490 ../edit.php:527 ../edit.php:1514
+#, fuzzy, php-format
+msgid ""
+"You can set the height of your layer. You can use pixels, percents, or the "
+"default value 'auto'. Examples: 100px, 50% or auto"
+msgstr ""
+"你可以设置你的层的高度。您可以使用像素，百分比，或者默认值“自动”。例如："
+"100px，50％或自动"
+
+#: ../add.php:523 ../add.php:530 ../add.php:541 ../add.php:1491
+#: ../add.php:1498 ../add.php:1509 ../builder.php:487 ../builder.php:1041
+#: ../edit.php:528 ../edit.php:535 ../edit.php:546 ../edit.php:1515
+#: ../edit.php:1522 ../edit.php:1533
+msgid "Top"
+msgstr "顶部"
+
+#: ../add.php:524 ../add.php:1492 ../edit.php:529 ../edit.php:1516
+msgid ""
+"The layer position from the top of the slide. You can use pixels and "
+"percents. Examples: 100px or 50%. You can move your layers in the preview "
+"above with a drag n' drop, or set the exact values here."
+msgstr ""
+"该层的位置从顶部的滑动。您可以使用像素和百分比。举例：100像素或50％。您可以移"
+"动层以上的预览一拖N'下降，或在这里设置的确切值。"
+
+#: ../add.php:525 ../add.php:536 ../add.php:547 ../add.php:1493
+#: ../add.php:1504 ../add.php:1515 ../builder.php:490 ../builder.php:1044
+#: ../edit.php:530 ../edit.php:541 ../edit.php:552 ../edit.php:1517
+#: ../edit.php:1528 ../edit.php:1539
+msgid "Left"
+msgstr "左"
+
+#: ../add.php:526 ../add.php:1494 ../edit.php:531 ../edit.php:1518
+msgid ""
+"The layer position from the left side of the slide. You can use pixels and "
+"percents. Examples: 100px or 50%. You can move your layers in the preview "
+"above with a drag n' drop, or set the exact values here."
+msgstr ""
+"该层的位置，从左侧滑动。您可以使用像素和百分比。举例：100像素或50％。您可以移"
+"动层在上面的预览 一拖N'下降，或在这里设置的确切值。"
+
+#: ../add.php:529 ../add.php:1497 ../edit.php:534 ../edit.php:1521
+msgid "Padding"
+msgstr "填充"
+
+#: ../add.php:531 ../add.php:1499 ../edit.php:536 ../edit.php:1523
+msgid "Padding on the top of the layer. Example: 10px"
+msgstr "填充层的顶部。例如：10px"
+
+#: ../add.php:532 ../add.php:543 ../add.php:1500 ../add.php:1511
+#: ../builder.php:488 ../builder.php:1042 ../edit.php:537 ../edit.php:548
+#: ../edit.php:1524 ../edit.php:1535
+msgid "Right"
+msgstr "右"
+
+#: ../add.php:533 ../add.php:1501 ../edit.php:538 ../edit.php:1525
+msgid "Padding on the right side of the layer. Example: 10px"
+msgstr "填充层的右侧。例如：10px"
+
+#: ../add.php:534 ../add.php:545 ../add.php:1502 ../add.php:1513
+#: ../builder.php:489 ../builder.php:1043 ../edit.php:539 ../edit.php:550
+#: ../edit.php:1526 ../edit.php:1537
+msgid "Bottom"
+msgstr "底部"
+
+#: ../add.php:535 ../add.php:1503 ../edit.php:540 ../edit.php:1527
+msgid "Padding on the bottom of the layer. Example: 10px"
+msgstr "填充层的底部。例如：10px"
+
+#: ../add.php:537 ../add.php:1505 ../edit.php:542 ../edit.php:1529
+msgid "Padding on the left side of the layer. Example: 10px"
+msgstr "填充层的左侧。例如：10px"
+
+#: ../add.php:540 ../add.php:1508 ../edit.php:545 ../edit.php:1532
+msgid "Border"
+msgstr "边界"
+
+#: ../add.php:542 ../add.php:1510 ../edit.php:547 ../edit.php:1534
+msgid "Border on the top of the layer. Example: 5px solid #000"
+msgstr "层的顶部边界。例如：5px solid #000"
+
+#: ../add.php:544 ../add.php:1512 ../edit.php:549 ../edit.php:1536
+msgid "Border on the right side of the layer. Example: 5px solid #000"
+msgstr "层的右侧边界。例如：5px solid #000"
+
+#: ../add.php:546 ../add.php:1514 ../edit.php:551 ../edit.php:1538
+msgid "Border on the bottom of the layer. Example: 5px solid #000"
+msgstr "层的底部边界。例如： 5px solid #000"
+
+#: ../add.php:548 ../add.php:1516 ../edit.php:553 ../edit.php:1540
+msgid "Border on the left side of the layer. Example: 5px solid #000"
+msgstr "层的左侧边界。例如：5px solid #000"
+
+#: ../add.php:551 ../add.php:1519 ../edit.php:556 ../edit.php:1543
+msgid "Font"
+msgstr "字体"
+
+#: ../add.php:552 ../add.php:1520 ../edit.php:557 ../edit.php:1544
+msgid "Family"
+msgstr "家族"
+
+#: ../add.php:553 ../add.php:1521 ../edit.php:558 ../edit.php:1545
+msgid ""
+"List of your chosen fonts separated with a comma. Please use apostrophes if "
+"your font names contains white spaces. Example: Helvetica, Arial, sans-serif"
+msgstr ""
+"您所选择的字体列表用逗号分隔。如果你的字体名称包含空格，请使用撇。例如：宋"
+"体，黑体，无衬线"
+
+#: ../add.php:554 ../add.php:1522 ../edit.php:559 ../edit.php:1546
+msgid "Size"
+msgstr "大小"
+
+#: ../add.php:555 ../add.php:1523 ../edit.php:560 ../edit.php:1547
+msgid "The font size in pixels. Example: 16px."
+msgstr "字体大小以像素为单位。例如：16px。"
+
+#: ../add.php:556 ../add.php:1524 ../edit.php:561 ../edit.php:1548
+msgid "Line-height"
+msgstr "行高"
+
+#: ../add.php:557 ../add.php:1525 ../edit.php:562 ../edit.php:1549
+msgid ""
+"The line height of your text. The default setting is 'normal'. Example: 22px"
+msgstr "您的文本行的高度。默认设置为 'normal'。例如： 22px"
+
+#: ../add.php:558 ../add.php:1526 ../edit.php:563 ../edit.php:1550
+msgid "Color"
+msgstr "颜色"
+
+#: ../add.php:559 ../add.php:1527 ../edit.php:564 ../edit.php:1551
+msgid ""
+"The color of your text. You can use color names, hexadecimal, RGB or RGBA "
+"values. Example: #333"
+msgstr "你的文字的颜色。您可以使用颜色名称，十六进制，RGB或RGBA值。例如：＃333"
+
+#: ../add.php:563 ../add.php:1531 ../edit.php:568 ../edit.php:1555
+msgid "Background"
+msgstr "背景"
+
+#: ../add.php:564 ../add.php:1532 ../edit.php:569 ../edit.php:1556
+msgid ""
+"The background color of your layer. You can use color names, hexadecimal, "
+"RGB or RGBA values as well as the 'transparent' keyword. Example: #FFF"
+msgstr ""
+"层的背景颜色。您可以使用颜色名称，十六进制，RGB或RGBA值以及'透明'的关键字。例"
+"如：＃FFF"
+
+#: ../add.php:565 ../add.php:1533 ../edit.php:570 ../edit.php:1557
+msgid "Rounded corners"
+msgstr "圆角"
+
+#: ../add.php:566 ../add.php:1534 ../edit.php:571 ../edit.php:1558
+msgid "If you want rounded corners, you can set here its radius. Example: 5px"
+msgstr "如果您想要圆角，你可以在这里设置它的半径。例如：5px"
+
+#: ../add.php:567 ../add.php:1535 ../edit.php:572 ../edit.php:1559
+msgid "Word-wrap"
+msgstr "文字换行"
+
+#: ../add.php:568 ../add.php:1536 ../edit.php:573 ../edit.php:1560
+msgid ""
+"If you use custom sized layers, you have to enable this setting to wrap your "
+"text."
+msgstr "如果使用自定义大小的层，你必须启用此设置来包装你的文字。"
+
+#: ../add.php:571 ../add.php:1539 ../edit.php:576 ../edit.php:1563
+msgid "Custom style settings"
+msgstr "自定义风格设置"
+
+#: ../add.php:572 ../add.php:1540 ../edit.php:577 ../edit.php:1564
+msgid "Custom styles"
+msgstr "自定义样式"
+
+#: ../add.php:573 ../add.php:1541 ../edit.php:578 ../edit.php:1565
+msgid ""
+"If you want to set style settings other then above, you can use here any CSS "
+"codes. Please make sure to write valid markup."
+msgstr ""
+"如果你要接着设置样式设置，在这里你可以使用任何CSS代码。请确保写入有效标记。"
+
+#: ../add.php:583 ../add.php:1551 ../edit.php:588 ../edit.php:1575
+msgid "ID"
+msgstr "ID"
+
+#: ../add.php:584 ../add.php:1552 ../edit.php:589 ../edit.php:1576
+msgid ""
+"You can apply an ID attribute on the HTML element of this layer to work with "
+"it in your custom CSS or Javascript code."
+msgstr ""
+"你可以申请一个自定义CSS或Javascript代码的HTML元素的ID属性在这个层上工作。"
+
+#: ../add.php:585 ../add.php:1553 ../edit.php:590 ../edit.php:1577
+msgid "Classes"
+msgstr "的类"
+
+#: ../add.php:586 ../add.php:1554 ../edit.php:591 ../edit.php:1578
+msgid ""
+"You can apply classes on the HTML element of this layer to work with it in "
+"your custom CSS or Javascript code."
+msgstr "你可以申请类的自定义CSS或者JavaScript代码的HTML元素在这一层工作。"
+
+#: ../add.php:587 ../add.php:1555 ../edit.php:592 ../edit.php:1579
+msgid "Title"
+msgstr "标题"
+
+#: ../add.php:588 ../add.php:1556 ../edit.php:593 ../edit.php:1580
+msgid ""
+"You can add a title to this layer which will display as a tooltip if someone "
+"holds his mouse cursor over the layer."
+msgstr "你可以添加标题到这一层，如果有人把光标移到这一层，它会显示一个提示。"
+
+#: ../add.php:589 ../add.php:1557 ../edit.php:594 ../edit.php:1581
+msgid "Alt"
+msgstr "Alt"
+
+#: ../add.php:590 ../add.php:1558 ../edit.php:595 ../edit.php:1582
+msgid ""
+"You can add an alternative text to your layer which is indexed by search "
+"engine robots and it helps people with certain disabilities."
+msgstr ""
+"你可以添加一个可选文字层索引的搜索引擎的机器人，它可以帮助某些残疾人士。"
+
+#: ../add.php:591 ../add.php:1559 ../edit.php:596 ../edit.php:1583
+msgid "Rel"
+msgstr "相对"
+
+#: ../add.php:592 ../add.php:1560 ../edit.php:597 ../edit.php:1584
+msgid ""
+"Some plugin may use the rel attribute of a linked content, here you can "
+"specify it to make interaction with these plugins."
+msgstr ""
+"有些插件可以使用rel属性链接的内容，在这里你可以指定它使这些插件的的交互。"
+
+#: ../add.php:603 ../add.php:1571 ../edit.php:608 ../edit.php:1597
+msgid "Add new layer"
+msgstr "添加新的层"
+
+#: ../add.php:614
+msgid "Add new LayerSlider"
+msgstr "添加新的层滑块"
+
+#: ../add.php:615 ../builder.php:535 ../edit.php:620 ../editor.php:56
+#: ../style_editor.php:44
+msgid "Back to the list"
+msgstr "返回到列表"
+
+#: ../add.php:620 ../add.php:644 ../edit.php:625 ../edit.php:649
+msgid "Global Settings"
+msgstr "全局设置"
+
+#: ../add.php:621 ../edit.php:626
+msgid "Slides"
+msgstr "滑块"
+
+#: ../add.php:622 ../edit.php:627
+msgid "Event Callbacks"
+msgstr "事件回调"
+
+#: ../add.php:623 ../edit.php:628
+msgid "FAQ"
+msgstr "常见问题"
+
+#: ../add.php:624 ../edit.php:629
+msgid "Documentation"
+msgstr "文档"
+
+#: ../add.php:638 ../edit.php:643
+msgid "Type your slider name here"
+msgstr "在这里键入您的滑块名"
+
+#: ../add.php:658 ../edit.php:663
+msgid ""
+"The slider width in pixels. For compatibility reasons, we still support "
+"percentage values, but for responsive layout, you should use pixels."
+msgstr ""
+"滑块的宽度（以像素为单位）。由于兼容性的原因，我们还是支持的百分比值，但响应"
+"的布局，你应该使用像素。"
+
+#: ../add.php:663 ../edit.php:668
+msgid "The slider height in pixels."
+msgstr "滑块的高度，以像素为单位。"
+
+#: ../add.php:666 ../edit.php:671
+msgid "Responsive"
+msgstr "响应"
+
+#: ../add.php:668 ../edit.php:673
+msgid "Enable this option to turn LayerSlider into a responsive slider."
+msgstr "启用此选项打开层滑块进入一个响应的滑块。"
+
+#: ../add.php:671 ../edit.php:676
+msgid "Full-width slider"
+msgstr "全宽滑块"
+
+#: ../add.php:673 ../edit.php:678
+#, fuzzy
+msgid ""
+"When you are using a responsiveness or percentage dimensions for the slider, "
+"it will respond the parent element size changes. With this option you can "
+"bypass this behaviour and LayerSlider will be a full-width slider."
+msgstr ""
+"当您为滑块使用一个响应或百分比尺寸，它会回应的父元素的大小变化。使用此选项，"
+"您可以绕过这种行为并且层滑块将是一个全宽滑块。"
+
+#: ../add.php:676 ../edit.php:681
+msgid "Responsive under"
+msgstr "响应之下"
+
+#: ../add.php:678 ../edit.php:683
+msgid ""
+"You can force the slider to change automatically into responsive mode but "
+"only if the slider width is smaller than responsiveUnder pixels. It can be "
+"used if you need a full-width slider with fixed height but you also need it "
+"to be responsive if the browser is smaller... Important! If you enter a "
+"value higher than 0, the normal responsive mode will be switched off "
+"automatically!"
+msgstr ""
+"您可以强制滑块以更改成自动响应模式，但只有当滑块宽度小于像素下的响应。 它可以"
+"用来如果你需要一个全宽滑块与固定的高度，但你还需要它来响应，如果浏览器较小..."
+"重要提示！如果你输入一个大于0的值，正常响应模式将被关闭！"
+
+#: ../add.php:681 ../edit.php:686
+msgid "Layers Container"
+msgstr "图层容器"
+
+#: ../add.php:683 ../edit.php:688
+#, fuzzy
+msgid ""
+"This feature is useful if you are using a full-width slider and you want to "
+"avoid stretching your layers across the full viewport horizontally. Just "
+"specify a custom width in pixels, and the slider will create a centered "
+"inner area to place your content into that. Note that this feature is "
+"working only with pixel-positioned layers, but you can still use the value "
+"'50%' if you want centered positions."
+msgstr ""
+"此功能是必要的，如果你使用的是全宽滑块，你需要强制层定位一个居中的自定义宽度"
+"容器内。只需指定这个容器的宽度（以像素为单位）！请注意，此功能只能用在像素定"
+"位的层，但是当然，如果你加左起：50％的位置，它会被水平放置的中心，因为在此之"
+"前有一层！"
+
+#: ../add.php:690 ../edit.php:695
+msgid "Slideshow"
+msgstr "幻灯片放映"
+
+#: ../add.php:696 ../edit.php:701
+msgid "Automatically start slideshow"
+msgstr "自动开始幻灯片"
+
+#: ../add.php:698 ../edit.php:703
+msgid "If enabled, slideshow will automatically start after loading the page."
+msgstr "如果启用，幻灯片就会在自动启动后加载页面。"
+
+#: ../add.php:701 ../edit.php:706
+msgid "Pause on hover"
+msgstr "悬停暂停"
+
+#: ../add.php:703 ../edit.php:708
+msgid "Slideshow will pause when mouse pointer is over LayerSlider."
+msgstr "当鼠标指针移到层滑块幻灯片将暂停。"
+
+#: ../add.php:706 ../edit.php:711
+msgid "First slide"
+msgstr "第一张幻灯片"
+
+#: ../add.php:708 ../edit.php:713
+msgid ""
+"LayerSlider will start with this slide (you can type the word <i>random</i> "
+"if you want the slider to start with a random slide)."
+msgstr ""
+"层滑块将开始滑动（如果你想将滑块开始随机幻灯片你可以键入单词 <i>随机</i>）。"
+
+#: ../add.php:711 ../edit.php:716
+msgid "Animate first slide"
+msgstr "第一张幻灯片的动画"
+
+#: ../add.php:713 ../edit.php:718
+msgid ""
+"If enabled, the layers of the first slide will animate (slide in) instead of "
+"fading in with the slide."
+msgstr "如果启用，层的第一张幻灯片将是动画（滑入）而不是用幻灯片淡出。"
+
+#: ../add.php:716 ../edit.php:721
+msgid "Random slideshow"
+msgstr "随机幻灯片"
+
+#: ../add.php:718 ../edit.php:723
+msgid ""
+"LayerSlider will change to a random slide instead of changing to the next / "
+"prev slide. Note that 'loops' feature won't work with this option."
+msgstr ""
+"层滑块会改变随机滑动而不是改变到下一个/上一个滑动。请注意，'循环'功能将无法正"
+"常使用此选项。"
+
+#: ../add.php:721 ../edit.php:726
+msgid "Two way slideshow"
+msgstr "双向幻灯片"
+
+#: ../add.php:723 ../edit.php:728
+msgid "If enabled, slideshow will go backwards if you click the prev button."
+msgstr "如果启用，如果你点击“上一页”按钮，幻灯片会倒着走。"
+
+#: ../add.php:726 ../edit.php:731
+msgid "Loops"
+msgstr "循环"
+
+#: ../add.php:734 ../edit.php:743
+msgid ""
+"Number of loops if automatically start slideshow is enabled (0 means "
+"infinite!)"
+msgstr "环路数量如果启用了会自动启动幻灯片（0表示无限大！）"
+
+#: ../add.php:737 ../edit.php:746
+msgid "Force the number of loops"
+msgstr "强制循环的数量"
+
+#: ../add.php:739 ../edit.php:748
+msgid ""
+"If enabled, the slider will always stop at the given number of loops even if "
+"the user restarts the slideshow."
+msgstr "如果启用，滑块将永远停止在给定数量的循环，即使用户重新启动幻灯片。"
+
+#: ../add.php:742 ../edit.php:751
+msgid "Automatically play videos"
+msgstr "自动播放视频"
+
+#: ../add.php:744 ../edit.php:753
+msgid ""
+"If enabled, the slider will automatically play youtube and vimeo videos."
+msgstr "如果启用，滑块会自动播放YouTube和Vimeo视频。"
+
+#: ../add.php:747 ../edit.php:756
+msgid "Automatically pause slideshow"
+msgstr "自动暂停幻灯片"
+
+#: ../add.php:750
+msgid "auto"
+msgstr "自动"
+
+#: ../add.php:751
+msgid "enabled"
+msgstr "启用"
+
+#: ../add.php:752 ../add.php:880
+msgid "disabled"
+msgstr "禁用"
+
+#: ../add.php:755 ../edit.php:764
+#, fuzzy
+msgid ""
+"If you enabled the 'automatically play videos' option, the 'auto' value "
+"means that the slideshow will pause UNTIL the video is finished playing and "
+"after that it will continue. The 'enabled' value means that the slideshow "
+"will stop and will not resume after the video has been played."
+msgstr ""
+"如果启用了自动播放，自动值意味着将停止，直到视频播放之后，它继续幻灯片放映。"
+"启用的意味着幻灯片将停止后不会继续播放视频。"
+
+#: ../add.php:758 ../edit.php:767
+msgid "Youtube preview"
+msgstr "影片预览"
+
+#: ../add.php:761 ../edit.php:770
+msgid "Maximum quality"
+msgstr "最大品质"
+
+#: ../add.php:762 ../edit.php:771
+msgid "High quality"
+msgstr "高质量"
+
+#: ../add.php:763 ../edit.php:772
+msgid "Medium quality"
+msgstr "中等品质"
+
+#: ../add.php:764 ../edit.php:773
+msgid "Default quality"
+msgstr "默认质量"
+
+#: ../add.php:767 ../edit.php:776
+msgid ""
+"Default thumbnail picture of YouTube videos. Note, that Maximum quaility is "
+"not available to all (not HD) videos."
+msgstr "默认YouTube视频缩略图。请注意，最大退换是不提供给所有（HD）视频。"
+
+#: ../add.php:770 ../edit.php:779
+msgid "Keyboard navigation"
+msgstr "键盘导航"
+
+#: ../add.php:772 ../edit.php:781
+msgid "You can navigate with the left and right arrow keys."
+msgstr "你可以左，右箭头键导航。"
+
+#: ../add.php:775 ../edit.php:784
+msgid "Touch navigation"
+msgstr "触摸导航"
+
+#: ../add.php:777 ../edit.php:786
+msgid "Touch-control (on mobile devices)."
+msgstr "触摸式控制（移动设备）。"
+
+#: ../add.php:784 ../edit.php:793
+msgid "Appearance"
+msgstr "外形"
+
+#: ../add.php:790 ../edit.php:799
+msgid "Skin"
+msgstr "皮肤"
+
+#: ../add.php:800 ../edit.php:809
+msgid ""
+"You can change the skin of the slider. The 'noskin' skin is a border- and "
+"buttonless skin. Your custom skins will appear in the list when you create "
+"their folders as well."
+msgstr ""
+"你可以改变滑块的皮肤。 NoSkin的皮肤是一个边框和按钮的皮肤。当你创建自己的文件"
+"夹，您的自定义的皮肤会出现在列表中。"
+
+#: ../add.php:803 ../edit.php:812
+msgid "Background color"
+msgstr "背景颜色"
+
+#: ../add.php:809 ../edit.php:818
+#, fuzzy
+msgid ""
+"Background color of LayerSlider. You can use all CSS methods, like hexa "
+"colors, rgb(r,g,b) method, color names, etc. Note, that slides with "
+"background will cover up the global background image."
+msgstr ""
+"层滑块背景颜色。您可以使用所有的CSS的方法，如六色，RGB（R，G，B）方法，色彩的"
+"名字，等等。注意，该滑块背景将覆盖全局背景。"
+
+#: ../add.php:812 ../edit.php:821
+msgid "Background image"
+msgstr "背景图片"
+
+#: ../add.php:819 ../edit.php:828
+#, fuzzy
+msgid ""
+"Background image of LayerSlider. This will be a fixed background image of "
+"LayerSlider by default. Note, that slides with background will cover up the "
+"global background image."
+msgstr ""
+"层滑块的背景图像。这将是层滑块默认的一个固定的背景图像。注意，该滑块背景将覆"
+"盖全局背景图像。"
+
+#: ../add.php:822 ../edit.php:831
+msgid "Slider style"
+msgstr "滑块样式"
+
+#: ../add.php:829 ../edit.php:838
+msgid "Here you can apply your custom CSS style settings to the slider."
+msgstr "在这里，您可以设置您的滑块的自定义CSS样式。"
+
+#: ../add.php:836 ../edit.php:845
+msgid "Navigation"
+msgstr "导航"
+
+#: ../add.php:842 ../edit.php:851
+msgid "Prev and Next buttons"
+msgstr "上一页和下一页按钮"
+
+#: ../add.php:844 ../edit.php:853
+msgid "If disabled, Prev and Next buttons will be invisible."
+msgstr "如果禁用，上一页和下一页按钮将是无形的。"
+
+#: ../add.php:847 ../edit.php:856
+msgid "Start and Stop buttons"
+msgstr "启动和停止按钮"
+
+#: ../add.php:849 ../edit.php:858
+msgid "If disabled, Start and Stop buttons will be invisible."
+msgstr "如果禁用，启动和停止按钮将是无形的。"
+
+#: ../add.php:852 ../edit.php:861
+msgid "Navigation buttons"
+msgstr "导航按钮"
+
+#: ../add.php:854 ../edit.php:863
+msgid "If disabled, slide buttons will be invisible."
+msgstr "如果禁用，滑动按钮将是无形的。"
+
+#: ../add.php:857 ../edit.php:866
+msgid "Prev and next buttons on hover"
+msgstr "上一个和下一个按钮悬停"
+
+#: ../add.php:859 ../edit.php:868
+msgid ""
+"If enabled, the prev and next buttons will be shown only if you move your "
+"mouse cursor over the slider."
+msgstr "如果启用，上一个和下一个按钮只有你移动你的鼠标光标放在滑块上时才显示。"
+
+#: ../add.php:862 ../edit.php:871
+msgid "Bottom navigation on hover"
+msgstr "底部导航悬停"
+
+#: ../add.php:864 ../edit.php:873
+msgid ""
+"The bottom navigation controls (with also thumbnails) will be shown only if "
+"you move your mouse cursor over the slider."
+msgstr "只有当你移动你的鼠标光标放在滑块时底部将显示导航控制(也是缩略图）。"
+
+#: ../add.php:867 ../edit.php:876
+msgid "Show bar timer"
+msgstr "显示栏计时器"
+
+#: ../add.php:869 ../edit.php:878
+msgid "You can hide or show the bar timer with this option."
+msgstr "使用此选项你可以隐藏或显示栏计时器。"
+
+#: ../add.php:872 ../edit.php:881
+msgid "Show circle timer"
+msgstr "显示圈计时器"
+
+#: ../add.php:874 ../edit.php:883
+msgid "You can hide or show the circle timer with this option."
+msgstr "使用此选项您可以隐藏或显示圈计时器。"
+
+#: ../add.php:877 ../edit.php:886
+msgid "Thumbnail navigation"
+msgstr "缩略图导航"
+
+#: ../add.php:881
+msgid "hover"
+msgstr "悬停"
+
+#: ../add.php:882
+msgid "always"
+msgstr "总是"
+
+#: ../add.php:888 ../edit.php:898
+msgid "Thumbnail width"
+msgstr "缩略图宽度"
+
+#: ../add.php:890 ../edit.php:900
+msgid "The width of the thumbnails in the navigation area."
+msgstr "本导航区域中的缩略图宽度。"
+
+#: ../add.php:893 ../edit.php:903
+msgid "Thumbnail height"
+msgstr "缩略图高度"
+
+#: ../add.php:895 ../edit.php:905
+msgid "The height of the thumbnails in the navigation area."
+msgstr "导航区域中缩略图的高度。"
+
+#: ../add.php:898 ../edit.php:908
+msgid "Thumbnail container width"
+msgstr "缩略图容器的宽度"
+
+#: ../add.php:900 ../edit.php:910
+msgid "The width of the thumbnail navigation area."
+msgstr "导航区的缩略图宽度。"
+
+#: ../add.php:903 ../edit.php:913
+msgid "Thumbnail active opacity"
+msgstr "缩略图激活不透明度"
+
+#: ../add.php:905 ../edit.php:915
+msgid "The selected thumbnail opacity (0-100)."
+msgstr "选定的缩略图不透明度（0-100）。"
+
+#: ../add.php:908 ../edit.php:918
+msgid "Thumbnail inactive opacity"
+msgstr "缩略图不透明度无效"
+
+#: ../add.php:910 ../edit.php:920
+msgid "The opacity of inactive thumbnails (0-100)."
+msgstr "无效缩略图的不透明度（0-100）。"
+
+#: ../add.php:923 ../edit.php:933
+msgid "Image preload"
+msgstr "图像预载"
+
+#: ../add.php:925 ../edit.php:935
+msgid "Preloads all images and background-images of the next slide."
+msgstr "预加载下一个幻灯片中的所有图像和背景图像。"
+
+#: ../add.php:928 ../edit.php:938
+msgid "Use relative URLs"
+msgstr "使用相对URL"
+
+#: ../add.php:930 ../edit.php:940
+msgid "If enabled, LayerSlider WP will use relative URLs for images."
+msgstr "如果启用，层滑块WP将使用相对URL的图像。"
+
+#: ../add.php:937 ../edit.php:947
+msgid "Troubleshooting"
+msgstr "故障排除"
+
+#: ../add.php:943 ../edit.php:953
+msgid "Put JS includes to body"
+msgstr "将JS包含在body里"
+
+#: ../add.php:945 ../edit.php:955
+msgid ""
+"If the slider doesn't showing up on your front-end page, you probably have a "
+"jQuery conflict when multiple libraries loaded to the document and causes a "
+"Javascript error. Enabling this option may solve your problem. Please don't "
+"enable this option if you don't experiencing any issues."
+msgstr ""
+"如果滑块前端页面上没有显示出来，你可能有一个jQuery冲突时，多个库加载到文档"
+"中，并导致JavaScript错误。启用此选项可以解决您的问题。如果你没有遇到任何问"
+"题，请不要启用该选项。"
+
+#: ../add.php:952 ../add.php:958 ../edit.php:962 ../edit.php:968
+msgid "YourLogo"
+msgstr "您的标志"
+
+#: ../add.php:965 ../edit.php:975
+msgid ""
+"This is a fixed layer that will be shown above of LayerSlider container. For "
+"example if you want to display your own logo, etc., you can upload an image "
+"or choose one from the Media Library."
+msgstr ""
+"这是一个固定的层，将显示上述层滑块容器。例如，如果你想显示自己的标识等，你可"
+"以上传图片，或从媒体库中选择一个。"
+
+#: ../add.php:968 ../edit.php:978
+msgid "YourLogo style"
+msgstr "您的标志风格"
+
+#: ../add.php:970 ../edit.php:980
+msgid ""
+"You can style your logo. You can use any CSS properties, for example you can "
+"add left and top properties to place the image inside the LayerSlider "
+"container anywhere you want."
+msgstr ""
+"你可以风格化您的标志。 您可以使用任何CSS属性，例如，您可以添加Left和Top属性将"
+"图像放置在任何你想要的层滑块容器内。"
+
+#: ../add.php:973 ../edit.php:983
+msgid "YourLogo link"
+msgstr "您的标志链接"
+
+#: ../add.php:980 ../edit.php:990
+msgid ""
+"You can add a link to your logo. Set false is you want to display only an "
+"image without a link."
+msgstr "你可以添加一个链接到您的标志。设置错误的会使你想要显示的图像没有链接。"
+
+#: ../add.php:983 ../edit.php:993
+msgid "YourLogo link target"
+msgstr "您的标志链接目标"
+
+#: ../add.php:992 ../edit.php:1003
+msgid "If '_blank', the clicked url will open in a new window."
+msgstr "如果'_blank'，点击的网址将在新窗口中打开。"
+
+#: ../add.php:1004 ../edit.php:1018
+msgid "Add new slide"
+msgstr "添加新的滑块"
+
+#: ../add.php:1067 ../edit.php:104 ../edit.php:1084
+msgid ""
+"You can control here the timing of the layer animations when the slider "
+"changes to this slide with a 3D/2D transition. Zero means that the layers of "
+"this slide will animate in when the slide transition ends. You can time-"
+"shift the starting time of the layer animations with positive or negative "
+"values."
+msgstr ""
+"你可以在这里控制层动画的定时，当滑块改变至此滑动与3D/2D过渡。零意味着这张幻灯"
+"片层将动画的幻灯片过渡结束时，您可以时移层动画的开始时间正值或负值。"
+
+#: ../add.php:1638 ../builder.php:1092 ../edit.php:1666
+msgid "Publish"
+msgstr "发布"
+
+#: ../add.php:1640 ../builder.php:1095 ../edit.php:1668 ../editor.php:90
+#: ../list.php:127 ../style_editor.php:61
+msgid "Save changes"
+msgstr "保存更改"
+
+#: ../builder.php:110 ../builder.php:392 ../builder.php:612 ../builder.php:944
+msgid "Basic properties"
+msgstr "基本性能"
+
+#: ../builder.php:115 ../builder.php:397 ../builder.php:617 ../builder.php:949
+msgid "Transition name"
+msgstr "过渡名称"
+
+#: ../builder.php:116 ../builder.php:398 ../builder.php:618 ../builder.php:950
+msgid ""
+"The name of your custom transition. When you will edit a slider, it will "
+"appear with this name, so you can easily identify the individual transitions."
+msgstr ""
+"您的自定义过渡的名称。当您将编辑一个滑块，它会出现这个名字，所以你可以很容易"
+"地识别各个过渡。"
+
+#: ../builder.php:119 ../builder.php:401 ../builder.php:623 ../builder.php:955
+msgid "Rows"
+msgstr "行"
+
+#: ../builder.php:120 ../builder.php:402 ../builder.php:624 ../builder.php:956
+msgid ""
+"<number> or <min_number>,<max_number> If you specify a value greater than 1, "
+"LayerSlider will cut your slide into tiles. You can specify here how many "
+"rows of your transition should have. If you specify two numbers separated "
+"with a comma, LayerSlider will use that as a range and pick a random number "
+"between your values."
+msgstr ""
+"<number> 或 <min_number>,<max_number> 如果你指定一个值大于1，层滑块将削减滑入"
+"片数。您可以指定这里应该有多少行过渡。如果指定用逗号分隔两个数字，层滑块将使"
+"用该范围，并挑选您的值之间的随机数。"
+
+#: ../builder.php:121 ../builder.php:403 ../builder.php:625 ../builder.php:957
+msgid "Cols"
+msgstr "关口"
+
+#: ../builder.php:122 ../builder.php:404 ../builder.php:626 ../builder.php:958
+msgid ""
+"<number> or <min_number>,<max_number> If you specify a value greater than 1, "
+"LayerSlider will cut your slide into tiles. You can specify here how many "
+"columns of your transition should have. If you specify two numbers separated "
+"with a comma, LayerSlider will use that as a range and pick a random number "
+"between your values."
+msgstr ""
+"<number>或<min_number>,<max_number> 如果你指定一个值大于1，层滑块将削减滑入片"
+"数，您可以指定，这里应该有多少列过渡。如果指定用逗号分隔的两个数字，层滑块将"
+"使用该范围，并挑选您的值之间的随机数。"
+
+#: ../builder.php:127 ../builder.php:409 ../builder.php:631 ../builder.php:963
+msgid "Tiles"
+msgstr "片数"
+
+#: ../builder.php:133 ../builder.php:415 ../builder.php:637 ../builder.php:969
+msgid ""
+"You can apply a delay between the tiles and postpone their animation "
+"relative to each other."
+msgstr "您可以相对于彼此将片数之间延迟和推迟他们的动画。"
+
+#: ../builder.php:134 ../builder.php:416 ../builder.php:638 ../builder.php:970
+msgid "Sequence"
+msgstr "序列"
+
+#: ../builder.php:136 ../builder.php:418 ../builder.php:640 ../builder.php:972
+msgid "You can control the animation order of the tiles here."
+msgstr "在这里，您可以控制动画顺序的片数."
+
+#: ../builder.php:137 ../builder.php:419 ../builder.php:641 ../builder.php:973
+msgid "Forward"
+msgstr "正面"
+
+#: ../builder.php:138 ../builder.php:420 ../builder.php:642 ../builder.php:974
+msgid "Reverse"
+msgstr "背面"
+
+#: ../builder.php:139 ../builder.php:421 ../builder.php:643 ../builder.php:975
+msgid "Col-forward"
+msgstr "Col-正面"
+
+#: ../builder.php:140 ../builder.php:422 ../builder.php:644 ../builder.php:976
+msgid "Col-reverse"
+msgstr "Col-背面"
+
+#: ../builder.php:141 ../builder.php:423 ../builder.php:491 ../builder.php:645
+#: ../builder.php:977 ../builder.php:1045
+msgid "Random"
+msgstr "随机"
+
+#: ../builder.php:148 ../builder.php:652
+msgid "Depth"
+msgstr "深度"
+
+#: ../builder.php:150 ../builder.php:654
+msgid ""
+"The script will try to identify the optimal depth for your rotated objects "
+"(tiles). With this option, you can force your objects to have large depth "
+"when performing 180 degree (and its multiplies) rotation."
+msgstr ""
+"该脚本将尝试找出最佳深度旋转对象（片数）。使用此选项，您可以强制你的对象有很"
+"大深度时进行180度旋转（及其倍数）。"
+
+#: ../builder.php:160 ../builder.php:668
+msgid "Before animation"
+msgstr "动画之前"
+
+#: ../builder.php:170 ../builder.php:227 ../builder.php:306 ../builder.php:678
+#: ../builder.php:748 ../builder.php:836
+msgid ""
+"The duration of your animation. This value is in millisecs, so the value "
+"1000 means 1 second."
+msgstr "动画的持续时间。这个值是毫秒数，所以值1000表示1秒。"
+
+#: ../builder.php:173 ../builder.php:230 ../builder.php:309 ../builder.php:439
+#: ../builder.php:682 ../builder.php:751 ../builder.php:840 ../builder.php:993
+msgid ""
+"The timing function of the animation, with it you can manipualte the "
+"movement of the animated object. Please click on the link next to this "
+"select field to open easings.net for more information and real-time examples."
+msgstr ""
+"动画的计时功能，有了它你可以控制动画对象的运动。请单击这个选择字段旁边的链"
+"接，打开easings.net获取更多的信息和实时的例子。"
+
+#: ../builder.php:206 ../builder.php:282 ../builder.php:342 ../builder.php:562
+#: ../builder.php:581 ../builder.php:727 ../builder.php:808 ../builder.php:885
+msgid "Add new"
+msgstr "添加新"
+
+#: ../builder.php:208 ../builder.php:284 ../builder.php:344 ../builder.php:729
+#: ../builder.php:810 ../builder.php:887
+msgid "Scale3D"
+msgstr "大型3D"
+
+#: ../builder.php:209 ../builder.php:275 ../builder.php:285 ../builder.php:345
+#: ../builder.php:500 ../builder.php:730 ../builder.php:811 ../builder.php:888
+#: ../builder.php:1054
+msgid "RotateX"
+msgstr "旋转X"
+
+#: ../builder.php:210 ../builder.php:286 ../builder.php:346 ../builder.php:502
+#: ../builder.php:731 ../builder.php:812 ../builder.php:889
+#: ../builder.php:1056
+msgid "RotateY"
+msgstr "旋转Y"
+
+#: ../builder.php:220 ../builder.php:741
+msgid "Animation"
+msgstr "动画"
+
+#: ../builder.php:264 ../builder.php:785
+msgid "The direction of rotation."
+msgstr "旋转的方向。"
+
+#: ../builder.php:265 ../builder.php:786
+msgid "Vertical"
+msgstr "垂直"
+
+#: ../builder.php:266 ../builder.php:787
+msgid "Horizontal"
+msgstr "横"
+
+#: ../builder.php:296 ../builder.php:826
+msgid "After animation"
+msgstr "动画后"
+
+#: ../builder.php:355 ../builder.php:514 ../builder.php:898
+#: ../builder.php:1068
+msgid "Transition options"
+msgstr "过渡选项"
+
+#: ../builder.php:361 ../builder.php:520 ../builder.php:904
+#: ../builder.php:1074
+msgid "Remove transition"
+msgstr "清除过渡"
+
+#: ../builder.php:430 ../builder.php:984
+msgid "Transition"
+msgstr "过渡"
+
+#: ../builder.php:436 ../builder.php:990
+msgid ""
+"The duration of the animation. This value is in millisecs, so the value 1000 "
+"measn 1 second."
+msgstr "动画的持续时间。这个值是毫秒数，所以值1000表示1秒。"
+
+#: ../builder.php:478 ../builder.php:1032
+msgid "The type of the animation, either slide, fade or both (mixed)."
+msgstr "动画的类型，要么幻灯片，淡入淡出或两者（混合）。"
+
+#: ../builder.php:479 ../builder.php:1033
+msgid "Slide"
+msgstr "滑块"
+
+#: ../builder.php:481 ../builder.php:1035
+msgid "Mixed"
+msgstr "混合"
+
+#: ../builder.php:486 ../builder.php:1040
+msgid ""
+"The direction of the slide or mixed animation if you chose these type in the "
+"previous setting."
+msgstr "在以前的设置，如果你选择这些类型的幻灯片或混合动画方向。"
+
+#: ../builder.php:492 ../builder.php:1046
+msgid "Top left"
+msgstr "左上"
+
+#: ../builder.php:493 ../builder.php:1047
+msgid "Top right"
+msgstr "右上"
+
+#: ../builder.php:494 ../builder.php:1048
+msgid "Bottom left"
+msgstr "左下"
+
+#: ../builder.php:495 ../builder.php:1049
+msgid "Bottom right"
+msgstr "右下"
+
+#: ../builder.php:506 ../builder.php:1060
+msgid "RotateZ"
+msgstr "旋转Z"
+
+#: ../builder.php:534
+msgid "LayerSlider Transition Builder"
+msgstr "层滑块过渡生成器"
+
+#: ../builder.php:539 ../editor.php:60 ../style_editor.php:48
+msgid "Your changes has been saved!"
+msgstr "您所做的更改已经保存了！"
+
+#: ../builder.php:549
+msgid "3D transitions"
+msgstr "3D转换"
+
+#: ../builder.php:551 ../builder.php:570
+msgid "Choose:"
+msgstr "选择："
+
+#: ../builder.php:561 ../builder.php:580
+msgid "or"
+msgstr "或"
+
+#: ../builder.php:568
+msgid "2D transitions"
+msgstr "2D转换"
+
+#: ../builder.php:1099
+msgid ""
+"Before you can save your changes, you need to make writeable your \"/wp-"
+"content/uploads\" folder. See the <a href=\"http://codex.wordpress.org/"
+"Changing_File_Permissions\" target=\"_blank\">Codex</a>"
+msgstr ""
+"你可以保存你之前的更改，你需要以可写 \"/wp-content/uploads\" 文件夹中。请参阅"
+"<a href=\"http://codex.wordpress.org/Changing_File_Permissions\" target="
+"\"_blank\">Codex</a>"
+
+#: ../builder.php:1125
+msgid "Transition Builder documentation"
+msgstr "过渡构建器文档"
+
+#: ../builder.php:1125
+msgid ""
+"To get started with the LayerSlider WP Transition Builder, please read our "
+"documentation by clicking on this \"Help\" menu item."
+msgstr ""
+"要开始使用层滑块WP过渡生成器， 请通过点击\"帮助\"菜单项仔细阅读我们的文档。"
+
+#: ../edit.php:619
+msgid "Edit this LayerSlider"
+msgstr "编辑本层滑块"
+
+#: ../edit.php:661
+msgid "Slider width"
+msgstr "滑块宽度"
+
+#: ../edit.php:666
+msgid "Slider height"
+msgstr "滑块高度"
+
+#: ../edit.php:1175
+msgid "Link this slide "
+msgstr "链接这张幻灯片"
+
+#: ../editor.php:55
+msgid "LayerSlider Skin Editor"
+msgstr "层滑块皮肤编辑器"
+
+#: ../editor.php:66 ../layerslider.php:603
+msgid "Skin Editor"
+msgstr "皮肤编辑器"
+
+#: ../editor.php:68
+msgid "Choose a skin:"
+msgstr "选择一个皮肤："
+
+#: ../editor.php:88
+msgid ""
+"You need to make this file writable before you can save your changes. See "
+"the <a href=\"http://codex.wordpress.org/Changing_File_Permissions\" target="
+"\"_blank\">Codex</a> for more information."
+msgstr ""
+"在保存您的更改之前你需要让你上传的文件夹可写。请参阅<a href=\"http://codex."
+"wordpress.org/Changing_File_Permissions\" target=\"_blank\">Codex</a> for "
+"more information."
+
+#: ../editor.php:91
+msgid ""
+"Modifying a skin could be dangerous, these changes will be permanent, you "
+"can't revert it."
+msgstr "修改皮肤可能是危险的，这些变化将是永久性的，你不能将其还原。"
+
+#: ../layerslider.php:228
+msgid "Your settings were successfully saved."
+msgstr "你的设置已经成功保存。"
+
+#: ../layerslider.php:244 ../list.php:131
+msgid ""
+"Thank you for purchasing LayerSlider WP. You successfully validated your "
+"purchase code for auto-updates."
+msgstr "感谢您购买WP Layerslider。您成功验证您的申购代码为自动更新。"
+
+#: ../layerslider.php:249 ../list.php:133
+msgid ""
+"Your purchase code doesn't appear to be valid. Please make sure that you "
+"entered your purchase code correctly."
+msgstr "您的申购代码显示无效，请确保您所输入的申购代码正确。"
+
+#: ../layerslider.php:601
+msgid "All Sliders"
+msgstr "所有滑块"
+
+#: ../layerslider.php:602 ../list.php:63
+msgid "Add New"
+msgstr "添加新"
+
+#: ../layerslider.php:604
+msgid "Transition Builder"
+msgstr "过渡构建器"
+
+#: ../layerslider.php:605
+msgid "Custom Styles Editor"
+msgstr "自定义样式编辑器"
+
+#: ../layerslider.php:661
+msgid ""
+"Your account does not have the necessary permission you chose, and your "
+"settings have not been saved to prevent locking yourself out of the plugin."
+msgstr ""
+
+#: ../layerslider.php:662
+msgid "Permission changes have been saved successfully."
+msgstr "权限变化已经保存成功！"
+
+#: ../layerslider.php:921 ../layerslider.php:1025
+msgid ""
+"It looks like your files isn't writable, so PHP couldn't make any changes "
+"(CHMOD)."
+msgstr "看起来像你的文件是不可写的，所以PHP不能做任何更改（CHMOD）。"
+
+#: ../layerslider.php:921 ../layerslider.php:1025
+msgid "Cannot write to file"
+msgstr "无法写入文件"
+
+#: ../layerslider.php:1174
+msgid "Invalid shortcode"
+msgstr "无效的简码"
+
+#: ../layerslider.php:1194
+msgid "Slider not found"
+msgstr "找不到滑块"
+
+#: ../layerslider.php:1226
+msgid "The new version of LayerSlider WP is almost ready!"
+msgstr "新版本层滑块WP是几乎准备就绪！"
+
+#: ../layerslider.php:1228
+msgid ""
+"For a faster and more reliable solution, LayerSlider WP needs to convert "
+"your data associated with the plugin. Your sliders and settings will remain "
+"still, and it only takes a click on this button."
+msgstr ""
+"对于一个更快，更可靠的解决方案，需要转换层滑块WP与插件相关的数据。只需要点击"
+"这个按钮滑块和设置将保持不动。"
+
+#: ../layerslider.php:1230
+msgid "Convert Data"
+msgstr "数据转换"
+
+#: ../layerslider.php:1249
+msgid "Update available for LayerSlider WP!"
+msgstr "LayerSlider 有更新可用"
+
+#: ../layerslider.php:1251
+#, php-format
+msgid "You have version %1$s. Update to version %2$s."
+msgstr "你的版本%1$s. 更新到版本%2$s."
+
+#: ../layerslider.php:1254
+msgid "Review changes & Install"
+msgstr "评级改变 & 安装"
+
+#: ../layerslider.php:1517
+msgid "Insert a slider with LayerSlider WP Widget"
+msgstr "插入滑块层滑块WP的小工具"
+
+#: ../layerslider.php:1519
+msgid "LayerSlider WP Widget"
+msgstr "层滑块WP的小工具"
+
+#: ../layerslider.php:1551
+msgid "LayerSlider"
+msgstr "层滑块"
+
+#: ../layerslider.php:1567
+msgid "Choose a slider:"
+msgstr "选择一个滑块："
+
+#: ../layerslider.php:1580
+msgid "You didn't create any slider yet."
+msgstr "你还没有创建任何滑块。"
+
+#: ../layerslider.php:1585
+msgid "Title:"
+msgstr "标题："
+
+#: ../list.php:62
+msgid "LayerSlider sliders"
+msgstr "层滑块滑块"
+
+#: ../list.php:64
+msgid "Import sample sliders"
+msgstr "导入样本滑块"
+
+#: ../list.php:72
+msgid "Name"
+msgstr "名"
+
+#: ../list.php:73
+msgid "Shortcode"
+msgstr "简码"
+
+#: ../list.php:74
+msgid "Actions"
+msgstr "操作"
+
+#: ../list.php:75
+msgid "Created"
+msgstr "创建"
+
+#: ../list.php:76
+msgid "Modified"
+msgstr "修改的"
+
+#: ../list.php:88
+msgid "Edit"
+msgstr "编辑"
+
+#: ../list.php:89
+msgid "Duplicate"
+msgstr "复制"
+
+#: ../list.php:90
+msgid "Remove"
+msgstr "清除"
+
+#: ../list.php:99
+msgid "You didn't create a slider yet."
+msgstr "你还没有创建一个滑块。"
+
+#: ../list.php:109
+msgid "Auto-updates"
+msgstr "自动更新"
+
+#: ../list.php:114
+msgid "Purchase code:"
+msgstr "购买码"
+
+#: ../list.php:115
+#, fuzzy
+msgid ""
+"To receive auto-updates, you need to enter your item purchase code. You can "
+"find it on your CodeCanyon downloads page, just click on the Download button "
+"and choose the \"Licence Certificate\" option. This will download a text "
+"file that contains your purchase code."
+msgstr ""
+"要接收自动更新，您需要输入您的项目申购代码。你可以在您的CodeCanyon下载页面上"
+"找到它，只需在相应的项目上点击\"执照证书\"按钮。这将下载一个文本文件，其中包"
+"含您的申购代码。"
+
+#: ../list.php:116
+msgid "Release channel:"
+msgstr "释放的通道："
+
+#: ../list.php:117
+msgid "Stable"
+msgstr "稳定"
+
+#: ../list.php:118
+msgid ""
+"Although pre-release versions should be fine, they might contain unknown "
+"issues, and are not recommended for sites in production."
+msgstr ""
+
+#: ../list.php:119
+msgid "Beta"
+msgstr "测试"
+
+#: ../list.php:147
+msgid "Import & Export Sliders"
+msgstr "导入&导出滑块"
+
+#: ../list.php:150
+msgid ""
+"Choose a LayerSlider export file downloaded previously to import your "
+"sliders. To import from older versions, you need to create a file and paste "
+"the export code into it. Only the file contents matters, its name does not."
+msgstr ""
+
+#: ../list.php:153
+msgid "Import Sliders"
+msgstr "导入滑块"
+
+#: ../list.php:155
+msgid "Import"
+msgstr "导入"
+
+#: ../list.php:162
+msgid ""
+"Downloads an export file that contains your selected sliders to import on "
+"your new site."
+msgstr ""
+
+#: ../list.php:165
+msgid "Export Sliders"
+msgstr "导出滑块"
+
+#: ../list.php:177
+msgid "Export"
+msgstr "导出"
+
+#: ../list.php:188
+msgid "Allow LayerSlider access to users with ..."
+msgstr "允许LayerSlider 访问用户的..."
+
+#: ../list.php:192
+msgid "Role"
+msgstr "角色"
+
+#: ../list.php:205
+msgid "Update"
+msgstr "更新"
+
+#: ../list.php:206
+msgid ""
+"If you want to give access for other users than admins to this page, you can "
+"specify a custom capability. You can find all the available capabilities on"
+msgstr ""
+"如果你想给管理员以外的用户访问这个页面，你可以指定一个自定义的功能。你可以找"
+"到所有可用的功能"
+
+#: ../list.php:206
+msgid "this page"
+msgstr "此页"
+
+#: ../list.php:209
+msgid "Capability"
+msgstr "功能"
+
+#: ../list.php:241
+msgid "The documentation is here"
+msgstr "该文档是在这里"
+
+#: ../list.php:241
+msgid ""
+"This is a WordPress contextual help menu, we use it to give you fast access "
+"to our documentation. Please keep in mind that because this menu is "
+"contextual, it only shows the relevant information to the page that you are "
+"currently viewing. So if you search something, you should visit the "
+"corresponding page first and then open this help menu."
+msgstr ""
+"这是一个WordPress上下文帮助菜单，我们用它帮你快速进入我们的文档。请记住，因为"
+"这菜单是上下文相关的，仅显示您当前正在查看的页面的相关信息。所以，如果你搜索"
+"的东西，你应该访问相应的页面，然后打开帮助菜单。"
+
+#: ../style_editor.php:43
+msgid "LayerSlider Custom Styles Editor"
+msgstr "层滑块自定义样式编辑器"
+
+#: ../style_editor.php:53
+msgid "Contents of your custom CSS file"
+msgstr "您的自定义CSS文件的内容"
+
+#: ../style_editor.php:59
+msgid ""
+"You need to make your uploads folder writable before you can save your "
+"changes. See the <a href=\"http://codex.wordpress.org/"
+"Changing_File_Permissions\" target=\"_blank\">Codex</a> for more information."
+msgstr ""
+"在你保存你的更改之前你需要让你上传的文件夹可写。请参阅 <a href=\"http://"
+"codex.wordpress.org/Changing_File_Permissions\" target=\"_blank\">Codex</a> "
+"了解更多信息。"
+
+#~ msgid ""
+#~ "An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+#~ "\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+#~ msgstr ""
+#~ "HTTP API请求过程中出现一个意外的错误。</p> <p><a href=\"?\" onclick="
+#~ "\"document.location.reload(); return false;\">再试一次</a>"
+
+#~ msgid "An unknown error occurred"
+#~ msgstr "发生未知错误"
+
+#~ msgid "If you want to link your layer, type here the URL."
+#~ msgstr "如果您要连接层，在此处键入URL。"
+
+#~ msgid "Permissions"
+#~ msgstr "权限"
+
+#~ msgid ""
+#~ "Place this export code into the import text field in your new site and "
+#~ "press \"Import\"."
+#~ msgstr "放置这个导出代码到你新网站的导入文本字段里面，然后按 \"导入\"."

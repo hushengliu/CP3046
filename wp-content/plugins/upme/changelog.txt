@@ -1,0 +1,166 @@
+v1.3.8
+--------
+
+	- Avatar bugfix
+	- Use hide_until_search option to hide profiles If you want search to be used first
+
+v1.3.7
+--------
+
+	- Minor bugfix (fixed front-end login)
+	- Redirect users after login to custom url
+	- Redirect users after registering to custom url
+	
+v1.3.6
+--------
+
+	- Custom redirect URL added to Registration Shortcode
+
+v1.3.5
+--------
+
+	- Minor bugfix thanks to mneitz
+	
+v1.3.4
+--------
+
+	- Fixed "user can edit" bug
+
+v1.3.3
+--------
+
+	- Added custom redirect for [upme_logout] button.
+
+v1.3.2
+--------
+
+	- Added [upme_logout] for Logout button
+	- Minor compatibility bugfixes
+
+v1.3.1
+--------
+
+	- Allow users to set password at registration (+Strength meter!)
+	- Minor bugfixes
+
+v1.3.0
+--------
+
+	- Auto Sync with WooCommerce!
+	- WooCommrece Account Page Fields Integration
+	
+v1.2.9
+--------
+
+	- Extended Search! Now search by display name, first/last name are allowed
+	- Partial name search is included! (Jame will return James, etc.)
+	
+v1.2.8
+--------
+
+	- New shortcode [upme_private] to hide content from guests.
+	- Minor bugfixes
+
+v1.2.7
+--------
+
+	- Conflict with "Form Maker" plugin due to both using same function name "do_output_buffer" http://wordpress.org/extend/plugins/form-maker/ issue fixed
+	
+v1.2.6
+--------
+
+	- New Built-in Lists: Country Selection +Country Flags!
+	
+v1.2.5
+--------
+
+	- New Input Fields Support! Radio, Select, Checkbox
+
+v1.2.2
+--------
+
+	- Major Featured Added! Search Profiles Feature
+	- Use [upme_search] in sidebar widget to enable search
+	- Use [upme_search autodetect=off] in page content
+	
+v1.2.1
+--------
+
+	- Major Featured Added! Automatic Pagination for Displaying All Profiles
+	- Enable pagination on all profiles using shortcode: users_per_page=X
+
+v1.2
+--------
+
+	- Block access to wp-profile optional. redirect to front end profile / custom page
+	- Block access to wp-login optional. redirect to front end login / custom page
+	- Block access to wp-register optioanl. redirect front end registration / custom page
+
+v1.1.6
+--------
+
+	- Allow HTML content in ANY profile field (optional)
+	- HTML can be used to allow users to embed HTML content (e.g. Videos)
+	- Now available in Spanish!
+	- Allow/disallow users to view other profiles (optional)
+
+v1.1.5
+--------
+
+	- Minor bug fixes
+
+v1.1.4
+--------
+
+	- Minor bug fixes
+
+v1.1.3
+--------
+
+	- Custom Profile Picture now replace default avatar in comments/entries
+	
+v1.1.2
+--------
+
+	- Upload profile picture is added!
+	- Few bug fixes
+	
+v1.1.1
+--------
+
+	- Front end User Profile page automatic creation
+	- Link to User Profile
+	- Link to logged in user profile / view another user profile
+
+v1.1
+--------
+
+	- Added Front-End Login Form
+	- Added ability to use the forms, profiles in sidebar!
+	- New shortcode option: use_in_sidebar to show the shortcode in sidebar
+
+v1.09
+--------
+
+	- Major update: Front-End Registration Form added! [upme_registration]
+	- New Shortcode Button
+	
+v1.04
+--------
+
+	- Major update: Add any custom profile field to default WordPress registration form
+	
+v1.03
+--------
+
+	- Added option to Show All Users
+
+v1.02
+--------
+
+	- Added a New Widget: Display latest registered users
+
+v1.01
+--------
+
+	- First stable release

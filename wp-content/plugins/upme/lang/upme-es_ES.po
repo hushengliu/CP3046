@@ -1,0 +1,1132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Profiles Made Easy v1.09\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-11 10:03+0200\n"
+"PO-Revision-Date: 2013-03-11 10:03+0200\n"
+"Last-Translator: verasoul.com <webmaster@verasoul.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ upme
+#: admin/customizer.php:1
+msgid "Profile Fields Cutomizer"
+msgstr "Personalizar Campos del Perfil"
+
+# @ upme
+#: admin/customizer.php:2
+msgid ""
+"Organize profile fields, add custom fields to profiles, control privacy of "
+"each field, and more using the following customizer."
+msgstr ""
+"Organizar campos del pefil, añadir campos personalizados a los perfiles, "
+"controlar la privacidad de cada campo y más opciones haciendo uso del "
+"personalizador."
+
+# @ upme
+#: admin/customizer.php:4
+msgid "Click here to add new field"
+msgstr "Haz clic para añadir un nuevo campo"
+
+# @ upme
+#: admin/customizer.php:9 admin/customizer.php:362
+msgid "Position"
+msgstr "Posición"
+
+# @ upme
+#: admin/customizer.php:12 admin/customizer.php:364
+msgid ""
+"Please use a unique position. Position lets you place the new field in the "
+"place you want exactly in Profile view."
+msgstr ""
+"¡Por favor, emplea una única posición!. La posición te permite ubicar el "
+"nuevo campo en el lugar deseado de la vista del perfil."
+
+# @ upme
+#: admin/customizer.php:17
+msgid "Type"
+msgstr "Tipo"
+
+# @ upme
+#: admin/customizer.php:20 admin/customizer.php:236 admin/customizer.php:370
+msgid "Profile Field"
+msgstr "Campo del Perfil"
+
+# @ upme
+#: admin/customizer.php:21 admin/customizer.php:234 admin/customizer.php:371
+msgid "Seperator"
+msgstr "Separador"
+
+# @ upme
+#: admin/customizer.php:23 admin/customizer.php:373
+msgid "You can create a seperator or a usermeta (profile field)"
+msgstr "Puedes crear un separador o campo de usuario"
+
+# @ upme
+#: admin/customizer.php:28
+msgid "Editor / Input Type"
+msgstr "Editor / Tipo de entrada"
+
+#: admin/customizer.php:35 admin/customizer.php:385
+#, fuzzy
+msgid ""
+"When user edit profile, this field can be an input (text, textarea, image "
+"upload, etc.)"
+msgstr ""
+"cuando un usuario edita su perfil, este campo puede ser del tipo texto o "
+"área de texto, e incluso permitir alojar una imagen (ejejmplo: Imagen de "
+"Perfil)"
+
+# @ upme
+#: admin/customizer.php:40
+msgid "Meta Key / Field"
+msgstr "Meta Key / Campo"
+
+# @ upme
+#: admin/customizer.php:43 admin/customizer.php:391
+msgid "Choose a user field"
+msgstr "Elige un campo de usuario"
+
+# @ upme
+#: admin/customizer.php:55 admin/customizer.php:403
+msgid ""
+"Choose from a predefined/available list of meta fields (usermeta) or use "
+"Custom to define a unique custom field (e.g. city, address, phone)"
+msgstr ""
+"Seleccionar de una lista predefinida o disponible de meta campos, puedes "
+"emplear un campo personalizado y único (ejemplo: dirección, ciudad, teléfono)"
+
+# @ upme
+#: admin/customizer.php:60
+msgid "Custom Meta Key / Field"
+msgstr "Meta Key / Campo personalizado"
+
+# @ upme
+#: admin/customizer.php:63 admin/customizer.php:409
+msgid ""
+"Enter a custom profile field If you want to create a custom meta for user "
+"profile and do not want to use predefined meta fields above."
+msgstr ""
+"Introduzce un campo de perfil personalizado Si deseas crear un meta "
+"personalizado para el perfil de usuario y no quieres hacer uso de los campos "
+"predefinidos anteriores."
+
+# @ upme
+#: admin/customizer.php:68 admin/customizer.php:180 admin/customizer.php:201
+msgid "Label"
+msgstr "Etiqueta"
+
+# @ upme
+#: admin/customizer.php:71 admin/customizer.php:417
+msgid ""
+"Enter the label / name of this field as you want it to appear in front-end "
+"(Profile edit/view)"
+msgstr ""
+"Introduce la etiqueta / nombre del campo tal y como deseas que aparezca en "
+"la visualización del perfil."
+
+# @ upme
+#: admin/customizer.php:76 admin/customizer.php:427
+msgid "Tooltip Text"
+msgstr "Tooltip"
+
+# @ upme
+#: admin/customizer.php:79 admin/customizer.php:429
+msgid "A tooltip text can be useful for social buttons on profile header."
+msgstr ""
+"Un tooltip (texto de ayuda) puede ser de gran ayuda para los botones "
+"sociales en la cabecera del perfil."
+
+# @ upme
+#: admin/customizer.php:84 admin/customizer.php:435
+msgid "This field is social"
+msgstr "Este campo es de tipo \"Social\""
+
+# @ upme
+#: admin/customizer.php:87 admin/customizer.php:99 admin/customizer.php:109
+#: admin/customizer.php:121 admin/customizer.php:131 admin/customizer.php:142
+#: admin/customizer.php:437 admin/customizer.php:448 admin/customizer.php:457
+#: admin/customizer.php:468 admin/customizer.php:477 admin/customizer.php:489
+#: widgets/upme-widgets.php:123
+msgid "No"
+msgstr "No"
+
+# @ upme
+#: admin/customizer.php:88 admin/customizer.php:98 admin/customizer.php:110
+#: admin/customizer.php:120 admin/customizer.php:132 admin/customizer.php:143
+#: admin/customizer.php:438 admin/customizer.php:447 admin/customizer.php:458
+#: admin/customizer.php:467 admin/customizer.php:478 admin/customizer.php:490
+#: widgets/upme-widgets.php:122
+msgid "Yes"
+msgstr "Si"
+
+# @ upme
+#: admin/customizer.php:90 admin/customizer.php:440
+msgid ""
+"A social field can show a button with your social profile in the head of "
+"your profile. Such as Facebook page, Twitter, etc."
+msgstr ""
+"Un campo de tipo Social puede mostrar un botón del perfil social en la "
+"cabecera del pefil. Tal como Facebook, Twitte, etc."
+
+# @ upme
+#: admin/customizer.php:95 admin/customizer.php:183 admin/customizer.php:204
+#: admin/customizer.php:445
+msgid "User can edit"
+msgstr "El usuario puede editar"
+
+# @ upme
+#: admin/customizer.php:101 admin/customizer.php:450
+msgid "Users can edit this profile field or not."
+msgstr "Los usuarios pueden editar este campo o no."
+
+#: admin/customizer.php:106
+msgid "Allow HTML Content"
+msgstr ""
+
+#: admin/customizer.php:112 admin/customizer.php:184 admin/customizer.php:205
+#: admin/customizer.php:460
+msgid "If yes, users will be able to write HTML code in this field."
+msgstr ""
+
+# @ upme
+#: admin/customizer.php:117 admin/customizer.php:185 admin/customizer.php:206
+#: admin/customizer.php:465
+msgid "User can hide"
+msgstr "El usuario puede ocultar"
+
+# @ upme
+#: admin/customizer.php:123 admin/customizer.php:470
+msgid "Users can hide this profile field or not."
+msgstr "El usuario puede ocultar este campo o no."
+
+# @ upme
+#: admin/customizer.php:128 admin/customizer.php:475
+msgid "This field is private"
+msgstr "Este campo es privado"
+
+# @ upme
+#: admin/customizer.php:134 admin/customizer.php:480
+msgid "Make this field Private. Only admins can see private fields."
+msgstr ""
+"Hacer que este campo sea privado. Solo los administradores pueden ver campos "
+"privados."
+
+# @ upme
+#: admin/customizer.php:139
+msgid "Show in WordPress Registration form"
+msgstr "Mostrar en el formulario de Registro de WordPress"
+
+# @ upme
+#: admin/customizer.php:145 admin/customizer.php:187 admin/customizer.php:208
+#: admin/customizer.php:492
+msgid "Show this profile field in WordPress registration form"
+msgstr "Mostrar este campo en el formulario de registro de WordPress"
+
+# @ upme
+#: admin/customizer.php:150
+msgid "Icon for this field"
+msgstr "Icono"
+
+# @ upme
+#: admin/customizer.php:152 admin/customizer.php:515 admin/customizer.php:524
+#: admin/customizer.php:527
+msgid "None"
+msgstr "Ninguno"
+
+# @ upme
+#: admin/customizer.php:162
+msgid "Submit New Field"
+msgstr "Enviar Nuevo Campo"
+
+# @ upme
+#: admin/customizer.php:163 admin/customizer.php:539
+msgid "Cancel"
+msgstr "Cancelar"
+
+# @ upme
+#: admin/customizer.php:175 admin/customizer.php:196
+msgid "Position / ID"
+msgstr "Posición / ID"
+
+# @ upme
+#: admin/customizer.php:175 admin/customizer.php:196
+msgid ""
+"Use position to control the order of this field. Lower positions appear "
+"first."
+msgstr ""
+"Usar la posición para controlar el orden del campo. Los campos con valores "
+"más bajos aparecen primero."
+
+# @ upme
+#: admin/customizer.php:176 admin/customizer.php:197 admin/customizer.php:368
+msgid "Field Type"
+msgstr "Tipo de Campo"
+
+# @ upme
+#: admin/customizer.php:176 admin/customizer.php:197
+msgid ""
+"Seperator is a legend/section that has a set of fields and appear in Profile "
+"Edit form. A Profile Field is the standard profile field which can be any "
+"user meta/field."
+msgstr ""
+"El Separador es una sección que tiene un grupo de campos y aparecen "
+"agrupados en el formulario. Un campo es estándar y puede ser empleado con "
+"cualquier tipo de dato."
+
+# @ upme
+#: admin/customizer.php:177 admin/customizer.php:198 admin/customizer.php:379
+msgid "Field Input"
+msgstr "Campo Entrada"
+
+#: admin/customizer.php:177 admin/customizer.php:198
+msgid ""
+"This column tells you the field input that will appear to user for this data."
+msgstr ""
+
+# @ upme
+#: admin/customizer.php:178 admin/customizer.php:199
+msgid "Meta Key"
+msgstr "Meta Key"
+
+# @ upme
+#: admin/customizer.php:178 admin/customizer.php:199
+msgid ""
+"This is the meta field that stores this specific profile data (e.g. "
+"first_name stores First Name)"
+msgstr ""
+"Este es el tipo de meta para el campo, y almacena un dato específico "
+"(ejemplo: first_name almacena el Nombre)"
+
+# @ upme
+#: admin/customizer.php:179 admin/customizer.php:200
+msgid "Icon"
+msgstr "Icono"
+
+# @ upme
+#: admin/customizer.php:180 admin/customizer.php:201
+msgid "The label that appears in front-end profile view or edit."
+msgstr "Etiqueta que aparece al ver el perfil en la web o en la edición."
+
+# @ upme
+#: admin/customizer.php:181 admin/customizer.php:202
+msgid "Tooltip"
+msgstr "Tooltip (ayuda flotante)"
+
+# @ upme
+#: admin/customizer.php:181 admin/customizer.php:202
+msgid ""
+"Please note that tooltips can be activated only for Social buttons such as "
+"Facebook, E-mail. Enter tooltip text here."
+msgstr ""
+"Ten en cuenta que los tooltips (textos de ayuda flotantes) pueden ser "
+"activados solo en los botones sociales como Facebook y el campo E-mail. "
+"Introduce aquí el texto de ayuda."
+
+# @ upme
+#: admin/customizer.php:182 admin/customizer.php:203
+msgid "Social"
+msgstr "Social"
+
+# @ upme
+#: admin/customizer.php:182 admin/customizer.php:203
+msgid ""
+"Make a field Social to have it appear as a button on the head of profile "
+"such as Facebook, Twitter, Google+ buttons."
+msgstr ""
+"Permite crear un campo Social y que aparezca como un botón en la cabecera "
+"del perfil. (Facebook, Twitter, Google+)."
+
+# @ upme
+#: admin/customizer.php:183 admin/customizer.php:204
+msgid "Allow or do not allow user to edit this field."
+msgstr "Permitir o no que el usuario edite este campo."
+
+#: admin/customizer.php:184 admin/customizer.php:205 admin/customizer.php:455
+msgid "Allow HTML"
+msgstr ""
+
+# @ upme
+#: admin/customizer.php:185 admin/customizer.php:206
+msgid "Allow user to show/hide this profile field from public view."
+msgstr ""
+"Permitir que el usuario muestre/oculte este campo públicamente en su perfil."
+
+# @ upme
+#: admin/customizer.php:186 admin/customizer.php:207
+msgid "Private"
+msgstr "Privado"
+
+# @ upme
+#: admin/customizer.php:186 admin/customizer.php:207
+msgid "Only admins can see private fields."
+msgstr "Solo los administradores pueden ver campos privados."
+
+# @ upme
+#: admin/customizer.php:187 admin/customizer.php:208
+msgid "Show in Registration"
+msgstr "Mostrar en Registro"
+
+# @ upme
+#: admin/customizer.php:188 admin/customizer.php:209
+msgid "Edit"
+msgstr "Editar"
+
+# @ upme
+#: admin/customizer.php:188 admin/customizer.php:209
+msgid "Click to edit this profile field."
+msgstr "Clic para editar este campo."
+
+# @ upme
+#: admin/customizer.php:189 admin/customizer.php:210
+msgid "Trash"
+msgstr "Papelera"
+
+# @ upme
+#: admin/customizer.php:189 admin/customizer.php:210
+msgid "Click to remove this profile field."
+msgstr "Clic para eliminar este campo."
+
+# @ upme
+#: admin/customizer.php:389
+msgid "Choose Meta Field"
+msgstr "Seleccionar Meta Campo"
+
+# @ upme
+#: admin/customizer.php:407
+msgid "Custom Meta Field"
+msgstr "Personalizar Meta Campo"
+
+# @ upme
+#: admin/customizer.php:415
+msgid "Label / Name"
+msgstr "Etiqueta / Nombre"
+
+# @ upme
+#: admin/customizer.php:487
+msgid "Include in WordPress registration"
+msgstr "Incluir en el formulario de registro de WordPrress"
+
+#: admin/customizer.php:505
+msgid "Available Choices"
+msgstr ""
+
+#: admin/customizer.php:507
+msgid ""
+"Enter one choice per line please. The choices will be available for front "
+"end user to choose from."
+msgstr ""
+
+#: admin/customizer.php:513
+msgid "Enable Predefined Choices"
+msgstr ""
+
+#: admin/customizer.php:516
+msgid "List of Countries"
+msgstr ""
+
+#: admin/customizer.php:518
+msgid ""
+"You can enable a predefined filter for choices. e.g. List of countries It "
+"enables country selection in profiles and saves you time to do it on your "
+"own."
+msgstr ""
+
+# @ upme
+#: admin/customizer.php:523
+msgid "Field Icon:"
+msgstr "Icono del Campo:"
+
+# @ upme
+#: admin/customizer.php:525
+msgid "Change Icon"
+msgstr "Cambiar Icono"
+
+# @ upme
+#: admin/customizer.php:538
+msgid "Update"
+msgstr "Actualizar"
+
+# @ upme
+#: admin/general.php:4
+msgid "Style"
+msgstr "Estilo"
+
+# @ upme
+#: admin/general.php:7
+msgid "Ignore styles - I will do my custom css!"
+msgstr "Ignorar estilos - Usaré mi propio CSS"
+
+#: admin/general.php:26
+msgid "Privacy / Options"
+msgstr ""
+
+# @ upme
+#: admin/general.php:34
+#, fuzzy
+msgid "Allow logged-in users to view other profiles"
+msgstr "Permitir a los invitados ver perfiles ajenos"
+
+#: admin/general.php:36
+msgid "Yes!"
+msgstr ""
+
+# @ upme
+#: admin/general.php:37
+#, fuzzy
+msgid "Logged in user can see his profile only"
+msgstr "Los usuarios pueden editar este campo o no."
+
+# @ upme
+#: admin/general.php:38
+#, fuzzy
+msgid ""
+"Allow or do not allow logged-in users to view other user profiles. If "
+"disabled, users will see their profiles only."
+msgstr ""
+"Permitir o no que los usuarios puedan ver perfiles. Puedes requerir que se "
+"logueen antes para poder ver perfiles."
+
+# @ upme
+#: admin/general.php:43
+msgid "Guests can view"
+msgstr "Los invitados pueden ver"
+
+# @ upme
+#: admin/general.php:45
+msgid "Allow guests to view profiles"
+msgstr "Permitir a los invitados ver perfiles ajenos"
+
+# @ upme
+#: admin/general.php:46
+msgid "Guests must login to view profiles"
+msgstr "Los invitados deben estar logueados para ver perfiles ajenos"
+
+# @ upme
+#: admin/general.php:47
+msgid ""
+"Allow or do not allow guests to view user profiles. You can require login "
+"before guests can view profiles."
+msgstr ""
+"Permitir o no que los usuarios puedan ver perfiles. Puedes requerir que se "
+"logueen antes para poder ver perfiles."
+
+# @ upme
+#: admin/general.php:52
+msgid "Guests cannot view profiles"
+msgstr "Los invitados no pueden ver perfiles"
+
+# @ upme
+#: admin/general.php:54
+msgid ""
+"Show a customized text/HTML If you do not allow guests to view profiles, "
+"like asking them to login to view the profile."
+msgstr ""
+"Mostrar un campo de texto/HTML personalizado. Si no permites a los invitados "
+"ver perfiles, mejor pedirles que se registre y logueen para ver el perfil."
+
+# @ upme
+#: admin/general.php:59
+msgid "User must log-in to view/edit his profile"
+msgstr "El usuario debe estar logueado para ver o editar su perfil"
+
+# @ upme
+#: admin/general.php:61
+msgid ""
+"This can be any text/HTML to show the user when he must login to view or "
+"edit his own profile. Leave blank to show nothing."
+msgstr ""
+"Puede ser del tipo texto/HTML para mostrar al usuario cuando debe loguearse "
+"para ver o editar su propio perfil. Déjalo en blanco para no mostrar nada."
+
+# @ upme
+#: admin/general.php:66
+#, fuzzy
+msgid "User must log-in to view private content"
+msgstr "El usuario debe estar logueado para ver o editar su perfil"
+
+# @ upme
+#: admin/general.php:68
+#, fuzzy
+msgid ""
+"This can be any text/HTML to show the user when he must login to view "
+"private/hidden content. Leave blank to show nothing."
+msgstr ""
+"Puede ser del tipo texto/HTML para mostrar al usuario cuando debe loguearse "
+"para ver o editar su propio perfil. Déjalo en blanco para no mostrar nada."
+
+#: admin/general.php:74
+msgid "Custom Redirection / Block WP backend"
+msgstr ""
+
+#: admin/general.php:83
+msgid "Redirect backend Profile to"
+msgstr ""
+
+#: admin/general.php:85
+msgid "Do not redirect"
+msgstr ""
+
+# @ acn
+#: admin/general.php:86
+#, fuzzy
+msgid "UPME Profile Page"
+msgstr "Tamaño de imagen de perfil:"
+
+# @ upme
+#: admin/general.php:87
+#, fuzzy
+msgid "Custom Defined URL"
+msgstr "Personalizar Meta Campo"
+
+#: admin/general.php:88
+msgid ""
+"To block access to WordPress backend profile, you can setup redirection "
+"here. Profile page is automatically created by this plugin."
+msgstr ""
+
+#: admin/general.php:93
+msgid "Redirect to custom profile URL"
+msgstr ""
+
+#: admin/general.php:95
+msgid ""
+"If you prefer to redirect WP profile to a custom defined URL (e.g. a custom "
+"page that has the UPME shortcode) Please enter custom URL here."
+msgstr ""
+
+#: admin/general.php:100
+msgid "Redirect default login page to custom URL"
+msgstr ""
+
+#: admin/general.php:102
+msgid ""
+"Enter URL here to disable WordPress backend login and enable redirection to "
+"your custom login page. You can use the <code>[upme_login]</code> shortcode "
+"on any page to create a login page that replace backend login."
+msgstr ""
+
+#: admin/general.php:107
+msgid "Redirect default registration page to custom URL"
+msgstr ""
+
+#: admin/general.php:109
+msgid ""
+"Enter URL here to disable WordPress backend registration and enable "
+"redirection to your custom registration page. You can use the <code>"
+"[upme_registration]</code> shortcode on any page to create a registration "
+"page that replace backend registration."
+msgstr ""
+
+# @ upme
+#: classes/class-upme-admin.php:10
+msgid "General"
+msgstr "Opciones Generales"
+
+# @ upme
+#: classes/class-upme-admin.php:10
+msgid "Customizer"
+msgstr "Personalizar"
+
+# @ upme
+#: classes/class-upme-admin.php:15
+#, php-format
+msgid "Please <a href=\"%s\">log in</a> to view / edit your profile."
+msgstr "¡Por favor, <a href=\"%s\">Loguéate</a> para ver o editar tu perfil."
+
+# @ upme
+#: classes/class-upme-admin.php:16
+#, php-format
+msgid "Please <a href=\"%s\">log in</a> to view this profile."
+msgstr "¡Por favor, <a href=\"%s\">Loguéate</a> para ver el perfil."
+
+#: classes/class-upme-admin.php:17
+#, php-format
+msgid ""
+"This content is hidden from public. You must <a href=\"%s\">log in</a> to "
+"view this hidden content."
+msgstr ""
+
+# @ upme
+#: classes/class-upme-admin.php:89
+msgid "User Profiles Made Easy"
+msgstr "UPME"
+
+# @ upme
+#: classes/class-upme-admin.php:231
+msgid "Position must be a number."
+msgstr "La posición debe ser numérica."
+
+# @ upme
+#: classes/class-upme-admin.php:233
+msgid "A field that has the same position already exists."
+msgstr "Ya existe un campo que contiene la misma posición."
+
+# @ upme
+#: classes/class-upme-admin.php:239
+msgid "Please enter a name that describes your field."
+msgstr "Introduce un nombre que describa tu campo."
+
+# @ upme
+#: classes/class-upme-admin.php:245 classes/class-upme-admin.php:251
+msgid "You must specify a usermeta / custom field."
+msgstr "Debes especificar un usermeta / o campo personalizado."
+
+# @ upme
+#: classes/class-upme-admin.php:253
+msgid "Invalid usermeta / custom field."
+msgstr "Usermeta o campo personalizado inválido."
+
+# @ upme
+#: classes/class-upme-admin.php:310
+msgid "Profile field was added."
+msgstr "El campo de perfil ha sido añadido."
+
+# @ upme
+#: classes/class-upme-admin.php:328
+msgid "Settings saved."
+msgstr "Configuraciones guardadas."
+
+# @ upme
+#: classes/class-upme-admin.php:335 classes/class-upme-admin.php:343
+msgid "Settings are reset to default."
+msgstr "Las configuraciones han sido reseteadas a valores por defecto."
+
+# @ upme
+#: classes/class-upme-admin.php:407
+msgid "Profile field was sent to Trash."
+msgstr "El campo ha sido enviado a la Papelera"
+
+# @ upme
+#: classes/class-upme-admin.php:438
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+# @ upme
+#: classes/class-upme-admin.php:439
+msgid "Reset Options"
+msgstr "Restablecer Opciones"
+
+# @ upme
+#: classes/class-upme-admin.php:440
+msgid "Reset Options &amp; Default Fields"
+msgstr "Restablecer Opciones y Campos por defecto"
+
+# @ upme
+#: classes/class-upme-login.php:36
+#, fuzzy
+msgid "<strong>ERROR:</strong> The username field is empty."
+msgstr "<strong>ERROR:</strong> La dirección de e-mail es incorrecta."
+
+# @ upme
+#: classes/class-upme-login.php:42
+#, fuzzy
+msgid "<strong>ERROR:</strong> The password field is empty."
+msgstr "<strong>ERROR:</strong> La dirección de e-mail es incorrecta."
+
+# @ upme
+#: classes/class-upme-login.php:57
+#, fuzzy
+msgid "<strong>ERROR:</strong> Invalid Username was entered."
+msgstr "<strong>ERROR:</strong> Introduce un nombre de usuario."
+
+# @ upme
+#: classes/class-upme-login.php:60
+#, fuzzy
+msgid "<strong>ERROR:</strong> Incorrect password was entered."
+msgstr "<strong>ERROR:</strong> Introduce un nombre de usuario."
+
+# @ upme
+#: classes/class-upme-register.php:40
+msgid "<strong>ERROR:</strong> Please enter a username."
+msgstr "<strong>ERROR:</strong> Introduce un nombre de usuario."
+
+# @ upme
+#: classes/class-upme-register.php:42
+msgid ""
+"<strong>ERROR:</strong> This username is already registered. Please choose "
+"another one."
+msgstr ""
+"<strong>ERROR:</strong> Este nombre de usuario ya está registrado. Por "
+"favor, escoge otro."
+
+# @ upme
+#: classes/class-upme-register.php:49
+msgid "<strong>ERROR:</strong> Please type your e-mail address."
+msgstr ""
+"<strong>ERROR:</strong> Introduce una dirección de correo electrónico válida."
+
+# @ upme
+#: classes/class-upme-register.php:51
+msgid "<strong>ERROR:</strong> The email address isn’t correct."
+msgstr "<strong>ERROR:</strong> La dirección de e-mail es incorrecta."
+
+# @ upme
+#: classes/class-upme-register.php:53
+msgid ""
+"<strong>ERROR:</strong> This email is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>ERROR:</strong> Este e-mail ya se encuentra registrado. Por favor, "
+"introduce otro."
+
+# @ upme
+#: classes/class-upme-register.php:110
+msgid "Registration successful. Please check your email."
+msgstr ""
+"Registro completado. ¡Por favor, comprueba tu correo electrónico (e-mail)!. "
+"No olvides comprobar la carpeta de SPAM."
+
+#: classes/class-upme-save.php:56
+msgid "You are not allowed to upload this file."
+msgstr "No estás autorizado a subir este tipo de fichero."
+
+# @ upme
+#: classes/class-upme-save.php:84
+msgid "E-mail address was not updated. Please enter a valid e-mail."
+msgstr ""
+"La dirección de e-mail no ha sido actualizada. ¡Por favor!, introduce un e-"
+"mail válido!"
+
+# @ upme
+#: classes/class-upme-save.php:92
+msgid "Your passwords do not match."
+msgstr "Las contraseñas no coinciden."
+
+# @ upme
+#: classes/class-upme-save.php:148
+msgid "Your profile was updated."
+msgstr "Tu perfil ha sido actualizado."
+
+# @ upme
+#: classes/class-upme-save.php:150
+msgid "Profile was updated."
+msgstr "El perfil ha sido actualizado."
+
+# @ upme
+#: classes/class-upme.php:11
+msgid "Text"
+msgstr "Texto"
+
+#: classes/class-upme.php:12
+msgid "Image Upload"
+msgstr "Subir Imagen"
+
+# @ upme
+#: classes/class-upme.php:13
+msgid "Textarea"
+msgstr "Área de texto"
+
+#: classes/class-upme.php:14
+msgid "Select Dropdown"
+msgstr ""
+
+#: classes/class-upme.php:15
+msgid "Radio"
+msgstr ""
+
+#: classes/class-upme.php:16
+msgid "Checkbox"
+msgstr ""
+
+# @ upme
+#: classes/class-upme.php:17 classes/class-upme.php:57
+msgid "Password"
+msgstr "Contraseña"
+
+# @ upme
+#: classes/class-upme.php:27 classes/class-upme.php:49
+msgid "Username"
+msgstr "Usuario"
+
+# @ upme
+#: classes/class-upme.php:35
+msgid "E-mail"
+msgstr "E-mail"
+
+# @ upme
+#: classes/class-upme.php:38
+msgid "A password will be e-mailed to you."
+msgstr "Te enviaremos una contraseña a tu correo. Luego podrás cambiarla."
+
+# @ upme
+#: classes/class-upme.php:66
+msgid "Profile Info"
+msgstr "Información del Perfil"
+
+# @ acn
+#: classes/class-upme.php:75
+msgid "Profile Picture"
+msgstr "Tamaño de imagen de perfil:"
+
+# @ upme
+#: classes/class-upme.php:87
+msgid "First Name"
+msgstr "Nombre"
+
+# @ upme
+#: classes/class-upme.php:99
+msgid "Last Name"
+msgstr "Apellidos"
+
+# @ upme
+#: classes/class-upme.php:111
+msgid "Display Name"
+msgstr "Nombre a Visualizar"
+
+# @ upme
+#: classes/class-upme.php:123
+msgid "About / Bio"
+msgstr "Biografía"
+
+#: classes/class-upme.php:136
+msgid "Custom Photo 1"
+msgstr "Fotografía"
+
+# @ upme
+#: classes/class-upme.php:145
+msgid "Contact Info"
+msgstr "Información de Contacto"
+
+# @ upme
+#: classes/class-upme.php:154
+msgid "Email Address"
+msgstr "E-mail"
+
+# @ upme
+#: classes/class-upme.php:159
+msgid "Send E-mail"
+msgstr "Enviar E-mail"
+
+# @ upme
+#: classes/class-upme.php:167
+msgid "Website"
+msgstr "Web"
+
+# @ upme
+#: classes/class-upme.php:176
+msgid "Social Profiles"
+msgstr "Perfiles Sociales"
+
+# @ upme
+#: classes/class-upme.php:185
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ upme
+#: classes/class-upme.php:190
+msgid "Connect via Facebook"
+msgstr "Conectar vía Facebook"
+
+# @ upme
+#: classes/class-upme.php:198
+msgid "Twitter Username"
+msgstr "Usuario Twitter"
+
+# @ upme
+#: classes/class-upme.php:203
+msgid "Connect via Twitter"
+msgstr "Conectar vía Twitter"
+
+# @ upme
+#: classes/class-upme.php:211
+msgid "Google+"
+msgstr "Google+"
+
+# @ upme
+#: classes/class-upme.php:216
+msgid "Connect via Google+"
+msgstr "Conectar vía Google+"
+
+# @ upme
+#: classes/class-upme.php:221 classes/class-upme.php:1230
+msgid "Account Info"
+msgstr "Información de Cuenta"
+
+# @ upme
+#: classes/class-upme.php:230
+msgid "New Password"
+msgstr "Nueva Contraseña"
+
+# @ upme
+#: classes/class-upme.php:334 js/upme-custom-js.php:39
+#: js/upme-custom-js.php:44
+msgid "View Profile"
+msgstr "Ver Perfil"
+
+#: classes/class-upme.php:536
+msgid "first"
+msgstr ""
+
+#: classes/class-upme.php:538
+msgid "previous"
+msgstr ""
+
+#: classes/class-upme.php:548
+msgid "next"
+msgstr ""
+
+#: classes/class-upme.php:550
+msgid "last"
+msgstr ""
+
+#: classes/class-upme.php:589
+msgid "Search Users"
+msgstr ""
+
+#: classes/class-upme.php:592
+msgid "ID, username, e-mail address or site URL"
+msgstr ""
+
+#: classes/class-upme.php:596
+msgid "Filter"
+msgstr ""
+
+# @ upme
+#: classes/class-upme.php:675 js/upme-custom-js.php:52
+msgid "Edit Profile"
+msgstr "Editar Perfil"
+
+#: classes/class-upme.php:723
+msgid "No users found matching the selected criteria."
+msgstr ""
+
+# @ upme
+#: classes/class-upme.php:880 classes/class-upme.php:1345
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"Si deseas cambiar la contraseña, escribe una nueva. En caso contrario déjala "
+"en blanco."
+
+# @ upme
+#: classes/class-upme.php:882 classes/class-upme.php:1347
+msgid "Type your new password again."
+msgstr "Vuelve a escribir tu contraseña."
+
+#: classes/class-upme.php:894
+msgid ""
+"You can sign up at <a href=\"http://en.gravatar.com/\">Gravatar</a> to have "
+"a globally recognized avatar or upload a custom profile picture below."
+msgstr ""
+"Puedes registrarte en <a href=\"http://en.gravatar.com/\">Gravatar</a> para "
+"disponer de un avatar (imagen) globalmente reconocida o subir tu propia "
+"imagen."
+
+#: classes/class-upme.php:904
+msgid "Choose File"
+msgstr "Seleccioar Fichero"
+
+# @ upme
+#: classes/class-upme.php:921 classes/class-upme.php:1274
+#: classes/class-upme.php:1356
+msgid "Hide from Public"
+msgstr "No quiero que sea Público (No visualizar en Web)"
+
+# @ upme
+#: classes/class-upme.php:927 classes/class-upme.php:1362
+#, php-format
+msgid "%s must be publicly visible."
+msgstr "%s debe ser públicamente visible"
+
+# @ upme
+#: classes/class-upme.php:940
+msgid "Update Profile"
+msgstr "Actualizar"
+
+# @ upme
+#: classes/class-upme.php:1003
+msgid "Name"
+msgstr "Nombre"
+
+# @ upme
+#: classes/class-upme.php:1120
+#, php-format
+msgid "%s entry"
+msgstr "%s entrada"
+
+#: classes/class-upme.php:1122
+#, php-format
+msgid "%s entries"
+msgstr "%s entradas"
+
+# @ upme
+#: classes/class-upme.php:1132
+#, php-format
+msgid "%s comment"
+msgstr "%s comentario"
+
+#: classes/class-upme.php:1134
+#, php-format
+msgid "%s comments"
+msgstr "%s comentarios"
+
+# @ upme
+#: classes/class-upme.php:1187
+msgid "Your display name will appear here."
+msgstr "Tu nombre de usuario aparecerá aquí."
+
+# @ upme
+#: classes/class-upme.php:1375
+msgid "Register"
+msgstr "Registro"
+
+#: classes/class-upme.php:1472
+msgid "Remember me"
+msgstr "Recordarme"
+
+#: classes/class-upme.php:1487
+msgid "Log In"
+msgstr "Acceder"
+
+# @ upme
+#: widgets/upme-widgets.php:9
+msgid "Displays a list of latest registered users."
+msgstr "Visualizar un listado de los últimos usuarios registrados."
+
+# @ upme
+#: widgets/upme-widgets.php:13
+msgid "UPME - Latest Members"
+msgstr "VeraUPME - Últimos Miembros"
+
+# @ upme
+#: widgets/upme-widgets.php:43
+#, php-format
+msgid "View %s Profile"
+msgstr "Ver %s Perfil"
+
+# @ upme
+#: widgets/upme-widgets.php:101
+msgid "Latest Registered Members"
+msgstr "Últimos Miembros Registrados"
+
+# @ acn
+#: widgets/upme-widgets.php:105
+msgid "Title:"
+msgstr "Título:"
+
+# @ acn
+#: widgets/upme-widgets.php:110
+msgid "How many users to show:"
+msgstr "Usuarios a mostrar:"
+
+# @ acn
+#: widgets/upme-widgets.php:115
+msgid "Profile picture size:"
+msgstr "Tamaño de imagen de perfil:"
+
+#: widgets/upme-widgets.php:120
+msgid "Link to user profile:"
+msgstr "Enlace al perfil del usuario:"

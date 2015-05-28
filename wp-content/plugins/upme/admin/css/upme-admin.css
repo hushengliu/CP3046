@@ -1,0 +1,94 @@
+table.upme-table {
+	margin: 20px 0 0 0;
+}
+
+table.upme-table th {font-family: Open Sans;font-size: 12px;}
+
+table.upme-table td { padding: 10px }
+
+table.upme-table .regular-text {
+	width: 94%;
+}
+
+table.upme-table td i {
+	font-size: 20px;
+}
+
+table.upme-table i.upme-tooltip2, table.upme-table i.upme-tooltip, table.upme-add-form i.upme-tooltip2 {
+	margin: 0 0 0 6px;
+	cursor: help;
+	color: #366799;
+	font-size: 14px;
+}
+table.upme-table i.upme-tooltip2:hover,
+table.upme-table i.upme-tooltip:hover,
+table.upme-add-form i.upme-tooltip2:hover {color: #ff7000}
+
+table.upme-table a {color: #666}
+
+table.upme-table a.upme-trash {color: #ff0000}
+
+/* The inline editor */
+.upme-editor * {font-size: 11px}
+
+.upme-editor p {
+	display: block;
+}
+
+table.upme-table tr.upme-editor label.upme-icons {
+	margin: 0 20px 0 0;
+	padding:0 0 10px 0;
+	float: left;
+	width: 50px;
+	display: none;
+}
+
+table.upme-table tr.upme-editor label.upme-icons i {
+	font-size: 14px;
+	margin: 0 0 0 10px;
+}
+
+i.upme-ticked {
+	background: url(../images/tick.png) no-repeat;
+	width: 16px;
+	height: 16px;
+	float: left;
+	display: block;
+}
+
+i.upme-unticked {
+	background: url(../images/untick.png) no-repeat;
+	width: 16px;
+	height: 16px;
+	float: left;
+	display: block;
+}
+
+p.upme-hide {
+	display: none;
+}
+
+/* Form that adds new fields */
+table.upme-add-form {
+	border: 1px solid #ddd;
+	display: none;
+}
+
+tr.upme-editor {display: none}
+
+table.upme-add-form label.upme-icons {
+	margin: 0 20px 0 0;
+	padding:0 0 16px 0;
+	float: left;
+	width: 50px;
+}
+
+table.upme-add-form label.upme-icons i {
+	line-height: 20px;
+	color: #444;
+	cursor: pointer;
+	margin: 0 0 0 10px;
+	font-size: 18px;
+}
+
+span.mce_upme_shortcodes_button{background-image:url(../images/icon-20.png)!important;background-repeat:no-repeat!important;background-position:center!important}

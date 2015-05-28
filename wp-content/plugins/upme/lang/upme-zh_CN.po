@@ -1,0 +1,937 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-11 10:03+0200\n"
+"PO-Revision-Date: 2013-08-15 21:55+0800\n"
+"Last-Translator: 逍遥乐汉化 <luoxiao123@outlook.com>\n"
+"Language-Team: 逍遥乐汉化luoxiao123.cn <luoxiao123@outlook.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __ngettext:1,2;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/customizer.php:1
+msgid "Profile Fields Cutomizer"
+msgstr "定制资料字段"
+
+#: admin/customizer.php:2
+msgid ""
+"Organize profile fields, add custom fields to profiles, control privacy of "
+"each field, and more using the following customizer."
+msgstr ""
+"整理资料字段，添加自定义字段添加到个人档案，控制每个字段的隐私，并使用下面的"
+"定制。"
+
+#: admin/customizer.php:4
+msgid "Click here to add new field"
+msgstr "单击此处添加新的领域"
+
+#: admin/customizer.php:9 admin/customizer.php:362
+msgid "Position"
+msgstr "定位"
+
+#: admin/customizer.php:12 admin/customizer.php:364
+msgid ""
+"Please use a unique position. Position lets you place the new field in the "
+"place you want exactly in Profile view."
+msgstr ""
+"请使用一个独一无二的位置。位置将显示在你想要的地方——在“个人资料”视图中。"
+
+#: admin/customizer.php:17
+msgid "Type"
+msgstr "类型"
+
+#: admin/customizer.php:20 admin/customizer.php:236 admin/customizer.php:370
+msgid "Profile Field"
+msgstr "资料字段"
+
+#: admin/customizer.php:21 admin/customizer.php:234 admin/customizer.php:371
+msgid "Seperator"
+msgstr "分隔符"
+
+#: admin/customizer.php:23 admin/customizer.php:373
+msgid "You can create a seperator or a usermeta (profile field)"
+msgstr "您可以创建一个分隔符或用户单元（资料字段）"
+
+#: admin/customizer.php:28
+msgid "Editor / Input Type"
+msgstr "编辑/输入类型"
+
+#: admin/customizer.php:35 admin/customizer.php:385
+msgid ""
+"When user edit profile, this field can be an input (text, textarea, image "
+"upload, etc.)"
+msgstr ""
+"当用户编辑个人资料时，本字段可输入（text, textarea, image upload, etc.）"
+
+#: admin/customizer.php:40
+msgid "Meta Key / Field"
+msgstr "Meta Key元键/字段"
+
+#: admin/customizer.php:43 admin/customizer.php:391
+msgid "Choose a user field"
+msgstr "选择一个用户字段"
+
+#: admin/customizer.php:55 admin/customizer.php:403
+msgid ""
+"Choose from a predefined/available list of meta fields (usermeta) or use "
+"Custom to define a unique custom field (e.g. city, address, phone)"
+msgstr ""
+"选择一个预定义/可用列表单元字段（用户单元）的，或使用自定义一个独特的自定义字"
+"段（如城市，地址，电话））"
+
+#: admin/customizer.php:60
+msgid "Custom Meta Key / Field"
+msgstr "自定义元键/字段"
+
+#: admin/customizer.php:63 admin/customizer.php:409
+msgid ""
+"Enter a custom profile field If you want to create a custom meta for user "
+"profile and do not want to use predefined meta fields above."
+msgstr ""
+"如果你想创建一个自定义的用户资料单元，并且不希望使用以上预定义的单元，输入自"
+"定义的资料字段。"
+
+#: admin/customizer.php:68 admin/customizer.php:180 admin/customizer.php:201
+msgid "Label"
+msgstr "Label标签"
+
+#: admin/customizer.php:71 admin/customizer.php:417
+msgid ""
+"Enter the label / name of this field as you want it to appear in front-end "
+"(Profile edit/view)"
+msgstr "输入标签/此字段的名称，你想让它出现在前端（编辑/查看资料）"
+
+#: admin/customizer.php:76 admin/customizer.php:427
+msgid "Tooltip Text"
+msgstr "提示文本"
+
+#: admin/customizer.php:79 admin/customizer.php:429
+msgid "A tooltip text can be useful for social buttons on profile header."
+msgstr "社会上的按钮配置文件标题可以是有用的工具提示文本。"
+
+#: admin/customizer.php:84 admin/customizer.php:435
+msgid "This field is social"
+msgstr "这个字段是社会的"
+
+#: admin/customizer.php:87 admin/customizer.php:99 admin/customizer.php:109
+#: admin/customizer.php:121 admin/customizer.php:131 admin/customizer.php:142
+#: admin/customizer.php:437 admin/customizer.php:448 admin/customizer.php:457
+#: admin/customizer.php:468 admin/customizer.php:477 admin/customizer.php:489
+#: widgets/upme-widgets.php:123
+msgid "No"
+msgstr "否"
+
+#: admin/customizer.php:88 admin/customizer.php:98 admin/customizer.php:110
+#: admin/customizer.php:120 admin/customizer.php:132 admin/customizer.php:143
+#: admin/customizer.php:438 admin/customizer.php:447 admin/customizer.php:458
+#: admin/customizer.php:467 admin/customizer.php:478 admin/customizer.php:490
+#: widgets/upme-widgets.php:122
+msgid "Yes"
+msgstr "是"
+
+#: admin/customizer.php:90 admin/customizer.php:440
+msgid ""
+"A social field can show a button with your social profile in the head of "
+"your profile. Such as Facebook page, Twitter, etc."
+msgstr ""
+"一个社会领域，可以显示一个按钮，你的社会知名度，更新的头。如Facebook，Twitter"
+"等页面"
+
+#: admin/customizer.php:95 admin/customizer.php:183 admin/customizer.php:204
+#: admin/customizer.php:445
+msgid "User can edit"
+msgstr "用户可以编辑"
+
+#: admin/customizer.php:101 admin/customizer.php:450
+msgid "Users can edit this profile field or not."
+msgstr "用户可以编辑该资料字段与否。"
+
+#: admin/customizer.php:106
+msgid "Allow HTML Content"
+msgstr "允许HTML内容"
+
+#: admin/customizer.php:112 admin/customizer.php:184 admin/customizer.php:205
+#: admin/customizer.php:460
+msgid "If yes, users will be able to write HTML code in this field."
+msgstr "如果是，用户将能够在这一字段写HTML代码。"
+
+#: admin/customizer.php:117 admin/customizer.php:185 admin/customizer.php:206
+#: admin/customizer.php:465
+msgid "User can hide"
+msgstr "用户可以隐藏"
+
+#: admin/customizer.php:123 admin/customizer.php:470
+msgid "Users can hide this profile field or not."
+msgstr "用户可以隐藏此配置文件字段与否。"
+
+#: admin/customizer.php:128 admin/customizer.php:475
+msgid "This field is private"
+msgstr "此字段是私有"
+
+#: admin/customizer.php:134 admin/customizer.php:480
+msgid "Make this field Private. Only admins can see private fields."
+msgstr "这是私人字段。只有管理员可以看到私人字段。"
+
+#: admin/customizer.php:139
+msgid "Show in WordPress Registration form"
+msgstr "在WordPress注册表单中显示"
+
+#: admin/customizer.php:145 admin/customizer.php:187 admin/customizer.php:208
+#: admin/customizer.php:492
+msgid "Show this profile field in WordPress registration form"
+msgstr "在WordPress注册表单显示此资料字段"
+
+#: admin/customizer.php:150
+msgid "Icon for this field"
+msgstr "此字段的图标"
+
+#: admin/customizer.php:152 admin/customizer.php:515 admin/customizer.php:524
+#: admin/customizer.php:527
+msgid "None"
+msgstr "无"
+
+#: admin/customizer.php:162
+msgid "Submit New Field"
+msgstr "提交新字段"
+
+#: admin/customizer.php:163 admin/customizer.php:539
+msgid "Cancel"
+msgstr "取消"
+
+#: admin/customizer.php:175 admin/customizer.php:196
+msgid "Position / ID"
+msgstr "位置/ ID"
+
+#: admin/customizer.php:175 admin/customizer.php:196
+msgid ""
+"Use position to control the order of this field. Lower positions appear "
+"first."
+msgstr "使用控制这一字段的顺序。首先出现较低的位置。"
+
+#: admin/customizer.php:176 admin/customizer.php:197 admin/customizer.php:368
+msgid "Field Type"
+msgstr "字段类型"
+
+#: admin/customizer.php:176 admin/customizer.php:197
+msgid ""
+"Seperator is a legend/section that has a set of fields and appear in Profile "
+"Edit form. A Profile Field is the standard profile field which can be any "
+"user meta/field."
+msgstr ""
+"分隔符是一个说明/分割有一组字段和出现在资料编辑表单。一个资料字段是标准资料字"
+"段可以是任何用户单元/字段。"
+
+#: admin/customizer.php:177 admin/customizer.php:198 admin/customizer.php:379
+msgid "Field Input"
+msgstr "字段输入"
+
+#: admin/customizer.php:177 admin/customizer.php:198
+msgid ""
+"This column tells you the field input that will appear to user for this data."
+msgstr "这一列告诉您,会出现字段输入用户对于这个数据。"
+
+#: admin/customizer.php:178 admin/customizer.php:199
+msgid "Meta Key"
+msgstr "Meta Key元键"
+
+#: admin/customizer.php:178 admin/customizer.php:199
+msgid ""
+"This is the meta field that stores this specific profile data (e.g. "
+"first_name stores First Name)"
+msgstr "这是meta单元字段存储这个特定的资料数据(如：first_name  表示 名字)"
+
+#: admin/customizer.php:179 admin/customizer.php:200
+msgid "Icon"
+msgstr "图标"
+
+#: admin/customizer.php:180 admin/customizer.php:201
+msgid "The label that appears in front-end profile view or edit."
+msgstr "标签出现在前端的资料查看或编辑。"
+
+#: admin/customizer.php:181 admin/customizer.php:202
+msgid "Tooltip"
+msgstr "提示信息 "
+
+#: admin/customizer.php:181 admin/customizer.php:202
+msgid ""
+"Please note that tooltips can be activated only for Social buttons such as "
+"Facebook, E-mail. Enter tooltip text here."
+msgstr ""
+"请注意,提示信息可以激活只有社会按钮如Facebook、电子邮件。在这里输入提示文本。"
+
+#: admin/customizer.php:182 admin/customizer.php:203
+msgid "Social"
+msgstr "社会化"
+
+#: admin/customizer.php:182 admin/customizer.php:203
+msgid ""
+"Make a field Social to have it appear as a button on the head of profile "
+"such as Facebook, Twitter, Google+ buttons."
+msgstr ""
+"使一个社会化字段有它的出现头部资料如Facebook，Twitter，谷歌按钮上的一个按钮。"
+
+#: admin/customizer.php:183 admin/customizer.php:204
+msgid "Allow or do not allow user to edit this field."
+msgstr "允许或不允许用户编辑此字段。"
+
+#: admin/customizer.php:184 admin/customizer.php:205 admin/customizer.php:455
+msgid "Allow HTML"
+msgstr "允许HTML"
+
+#: admin/customizer.php:185 admin/customizer.php:206
+msgid "Allow user to show/hide this profile field from public view."
+msgstr "允许用户显示/隐藏此资料字段公开显示。"
+
+#: admin/customizer.php:186 admin/customizer.php:207
+msgid "Private"
+msgstr "私有"
+
+#: admin/customizer.php:186 admin/customizer.php:207
+msgid "Only admins can see private fields."
+msgstr "只有管理员可以看到私有字段。"
+
+#: admin/customizer.php:187 admin/customizer.php:208
+msgid "Show in Registration"
+msgstr "在注册中显示"
+
+#: admin/customizer.php:188 admin/customizer.php:209
+msgid "Edit"
+msgstr "编辑"
+
+#: admin/customizer.php:188 admin/customizer.php:209
+msgid "Click to edit this profile field."
+msgstr "点击编辑这个资料字段"
+
+#: admin/customizer.php:189 admin/customizer.php:210
+msgid "Trash"
+msgstr "清除"
+
+#: admin/customizer.php:189 admin/customizer.php:210
+msgid "Click to remove this profile field."
+msgstr "单击删除此资料字段。"
+
+#: admin/customizer.php:389
+msgid "Choose Meta Field"
+msgstr "选择meta单元字段"
+
+#: admin/customizer.php:407
+msgid "Custom Meta Field"
+msgstr "自定义meta单元字段"
+
+#: admin/customizer.php:415
+msgid "Label / Name"
+msgstr "label标签/名称"
+
+#: admin/customizer.php:487
+msgid "Include in WordPress registration"
+msgstr "包含在WordPress注册中"
+
+#: admin/customizer.php:505
+msgid "Available Choices"
+msgstr "可用选项"
+
+#: admin/customizer.php:507
+msgid ""
+"Enter one choice per line please. The choices will be available for front "
+"end user to choose from."
+msgstr "请每行输入一个选择。这个选择将用于前端用户可供选择。"
+
+#: admin/customizer.php:513
+msgid "Enable Predefined Choices"
+msgstr "启用预定义的选择"
+
+#: admin/customizer.php:516
+msgid "List of Countries"
+msgstr "国家名单"
+
+#: admin/customizer.php:518
+msgid ""
+"You can enable a predefined filter for choices. e.g. List of countries It "
+"enables country selection in profiles and saves you time to do it on your "
+"own."
+msgstr ""
+"您可以启用预定义过滤选择。例如国家名单，它使国家选择在配置文件中，并节省您的"
+"时间自己去做。"
+
+#: admin/customizer.php:523
+msgid "Field Icon:"
+msgstr "字段图标:"
+
+#: admin/customizer.php:525
+msgid "Change Icon"
+msgstr "更改图标"
+
+#: admin/customizer.php:538
+msgid "Update"
+msgstr "更新"
+
+#: admin/general.php:4
+msgid "Style"
+msgstr "风格"
+
+#: admin/general.php:7
+msgid "Ignore styles - I will do my custom css!"
+msgstr "忽略样式 - 我使用我的自定义CSS！"
+
+#: admin/general.php:26
+msgid "Privacy / Options"
+msgstr "隐私/选项"
+
+#: admin/general.php:34
+msgid "Allow logged-in users to view other profiles"
+msgstr "允许登录用户可以查看其他用户的档案"
+
+#: admin/general.php:36
+msgid "Yes!"
+msgstr "是!"
+
+#: admin/general.php:37
+msgid "Logged in user can see his profile only"
+msgstr "仅登录用户可以看到他的个人资料"
+
+#: admin/general.php:38
+msgid ""
+"Allow or do not allow logged-in users to view other user profiles. If "
+"disabled, users will see their profiles only."
+msgstr ""
+"允许或不允许登录用户可以查看其他用户资料。如果禁用，用户将只能看到自己的个人"
+"资料。"
+
+#: admin/general.php:43
+msgid "Guests can view"
+msgstr "游客可以查看"
+
+#: admin/general.php:45
+msgid "Allow guests to view profiles"
+msgstr "允许游客以查看资料"
+
+#: admin/general.php:46
+msgid "Guests must login to view profiles"
+msgstr "游客必须登录才能查看资料"
+
+#: admin/general.php:47
+msgid ""
+"Allow or do not allow guests to view user profiles. You can require login "
+"before guests can view profiles."
+msgstr "允许或不允许游客查看用户资料。您可以要求登录之前，游客可以查看资料。"
+
+#: admin/general.php:52
+msgid "Guests cannot view profiles"
+msgstr "游客不能查看资料"
+
+#: admin/general.php:54
+msgid ""
+"Show a customized text/HTML If you do not allow guests to view profiles, "
+"like asking them to login to view the profile."
+msgstr ""
+"显示一个自定义的text / HTML。如果你不允许游客查看个人资料,则要求他们登录。"
+
+#: admin/general.php:59
+msgid "User must log-in to view/edit his profile"
+msgstr "用户必须登录才能查看/编辑他的资料"
+
+#: admin/general.php:61
+msgid ""
+"This can be any text/HTML to show the user when he must login to view or "
+"edit his own profile. Leave blank to show nothing."
+msgstr ""
+"这可以是向用户展示任何文字/ HTML时，他必须登录才能查看或编辑自己的个人资料。"
+"保留空白，什么都不显示。"
+
+#: admin/general.php:66
+msgid "User must log-in to view private content"
+msgstr "用户必须登录查看私人内容"
+
+#: admin/general.php:68
+msgid ""
+"This can be any text/HTML to show the user when he must login to view "
+"private/hidden content. Leave blank to show nothing."
+msgstr ""
+"这可以是任何文字/ HTML向用户展示时，他必须登录才能查看私人/隐藏的内容。保留空"
+"白，什么都不显示。"
+
+#: admin/general.php:74
+msgid "Custom Redirection / Block WP backend"
+msgstr "自定义重定向/块WP后台"
+
+#: admin/general.php:83
+msgid "Redirect backend Profile to"
+msgstr "重定向后台资料"
+
+#: admin/general.php:85
+msgid "Do not redirect"
+msgstr "不要重定向"
+
+#: admin/general.php:86
+msgid "UPME Profile Page"
+msgstr "UPME个人主页"
+
+#: admin/general.php:87
+msgid "Custom Defined URL"
+msgstr "自定义网址"
+
+#: admin/general.php:88
+msgid ""
+"To block access to WordPress backend profile, you can setup redirection "
+"here. Profile page is automatically created by this plugin."
+msgstr ""
+"为了阻止访问WordPress的后端资料，你可以在这里设置重定向。这个插件会自动创建个"
+"人资料页面。"
+
+#: admin/general.php:93
+msgid "Redirect to custom profile URL"
+msgstr "重定向到自定义个人资料网址"
+
+#: admin/general.php:95
+msgid ""
+"If you prefer to redirect WP profile to a custom defined URL (e.g. a custom "
+"page that has the UPME shortcode) Please enter custom URL here."
+msgstr ""
+"如果你喜欢一个自定义URL重定向WP资料（例如一个自定义的页有UPME简码）请在这里输"
+"入自定义URL。"
+
+#: admin/general.php:100
+msgid "Redirect default login page to custom URL"
+msgstr "默认登录页面重定向到自定义网址"
+
+#: admin/general.php:102
+msgid ""
+"Enter URL here to disable WordPress backend login and enable redirection to "
+"your custom login page. You can use the <code>[upme_login]</code> shortcode "
+"on any page to create a login page that replace backend login."
+msgstr ""
+"在这里输入网址禁用的WordPress后台登录，并启用重定向到您的自定义登录页面。您可"
+"以使用任何页面上的<code>[upme_login]</code>简码创建一个登录页面，更换后台登录"
+
+#: admin/general.php:107
+msgid "Redirect default registration page to custom URL"
+msgstr "默认注册页面重定向自定义网址"
+
+#: admin/general.php:109
+msgid ""
+"Enter URL here to disable WordPress backend registration and enable "
+"redirection to your custom registration page. You can use the <code>"
+"[upme_registration]</code> shortcode on any page to create a registration "
+"page that replace backend registration."
+msgstr ""
+"输入网址这里禁用WordPress的后端注册和启用重定向到您的自定义注册页。您可以使用"
+"任何页面上的<code>[upme_registration]</code>简码创建一个注册页面，更换后端注"
+"册。"
+
+#: classes/class-upme-admin.php:10
+msgid "General"
+msgstr "常规"
+
+#: classes/class-upme-admin.php:10
+msgid "Customizer"
+msgstr "自定义"
+
+#: classes/class-upme-admin.php:15
+#, php-format
+msgid "Please <a href=\"%s\">log in</a> to view / edit your profile."
+msgstr "请 <a href=\"%s\">登录</a> 查看/编辑您的个人资料。"
+
+#: classes/class-upme-admin.php:16
+#, php-format
+msgid "Please <a href=\"%s\">log in</a> to view this profile."
+msgstr "请 <a href=\"%s\">登录</a>查看此资料。"
+
+#: classes/class-upme-admin.php:17
+#, php-format
+msgid ""
+"This content is hidden from public. You must <a href=\"%s\">log in</a> to "
+"view this hidden content."
+msgstr "此内容对公众隐藏！ 你必须<a href=\"%s\">登录</a> 来查看这个隐藏的内容!"
+
+#: classes/class-upme-admin.php:89
+msgid "User Profiles Made Easy"
+msgstr ""
+
+#: classes/class-upme-admin.php:231
+msgid "Position must be a number."
+msgstr "位置必须是一个数字。"
+
+#: classes/class-upme-admin.php:233
+msgid "A field that has the same position already exists."
+msgstr "字段具有相同的位置已经存在。"
+
+#: classes/class-upme-admin.php:239
+msgid "Please enter a name that describes your field."
+msgstr "请输入一个名称，描述你的字段。"
+
+#: classes/class-upme-admin.php:245 classes/class-upme-admin.php:251
+msgid "You must specify a usermeta / custom field."
+msgstr "您必须指定一个usermeta用户单元/自定义字段。"
+
+#: classes/class-upme-admin.php:253
+msgid "Invalid usermeta / custom field."
+msgstr "无效usermeta用户单元/自定义字段。"
+
+#: classes/class-upme-admin.php:310
+msgid "Profile field was added."
+msgstr "资料字段已添加。"
+
+#: classes/class-upme-admin.php:328
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: classes/class-upme-admin.php:335 classes/class-upme-admin.php:343
+msgid "Settings are reset to default."
+msgstr "重置为默认设置。"
+
+#: classes/class-upme-admin.php:407
+msgid "Profile field was sent to Trash."
+msgstr "配置文件字段被送到垃圾桶。"
+
+#: classes/class-upme-admin.php:438
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: classes/class-upme-admin.php:439
+msgid "Reset Options"
+msgstr "重置选项"
+
+#: classes/class-upme-admin.php:440
+msgid "Reset Options &amp; Default Fields"
+msgstr "重置选项 &amp; 默认字段"
+
+#: classes/class-upme-login.php:36
+msgid "<strong>ERROR:</strong> The username field is empty."
+msgstr "<strong>错误:</strong>用户名字段为空。"
+
+#: classes/class-upme-login.php:42
+msgid "<strong>ERROR:</strong> The password field is empty."
+msgstr "<strong>错误：:</strong> 密码字段为空。"
+
+#: classes/class-upme-login.php:57
+msgid "<strong>ERROR:</strong> Invalid Username was entered."
+msgstr "<strong>错误:</strong>输入用户名无效。"
+
+#: classes/class-upme-login.php:60
+msgid "<strong>ERROR:</strong> Incorrect password was entered."
+msgstr "<strong>错误:</strong>输入的密码不正确。"
+
+#: classes/class-upme-register.php:40
+msgid "<strong>ERROR:</strong> Please enter a username."
+msgstr "<strong>错误:</strong> 请输入用户名。"
+
+#: classes/class-upme-register.php:42
+msgid ""
+"<strong>ERROR:</strong> This username is already registered. Please choose "
+"another one."
+msgstr "<strong>错误:</strong> 此用户名已被注册。请另外选择一个。"
+
+#: classes/class-upme-register.php:49
+msgid "<strong>ERROR:</strong> Please type your e-mail address."
+msgstr "<strong>错误:</strong> 请输入您的E-mail地址。"
+
+#: classes/class-upme-register.php:51
+msgid "<strong>ERROR:</strong> The email address isn’t correct."
+msgstr "<strong>错误:</strong> 电子邮件地址不正确。"
+
+#: classes/class-upme-register.php:53
+msgid ""
+"<strong>ERROR:</strong> This email is already registered, please choose "
+"another one."
+msgstr "<strong>错误:</strong> 此帐号已被注册，请另外选择一个。"
+
+#: classes/class-upme-register.php:110
+msgid "Registration successful. Please check your email."
+msgstr "注册成功。请检查您的电子邮件。"
+
+#: classes/class-upme-save.php:56
+msgid "You are not allowed to upload this file."
+msgstr "你不允许上传这个文件。"
+
+#: classes/class-upme-save.php:84
+msgid "E-mail address was not updated. Please enter a valid e-mail."
+msgstr "电子邮件地址未更新。请输入一个有效的电子邮件。"
+
+#: classes/class-upme-save.php:92
+msgid "Your passwords do not match."
+msgstr "您的密码不匹配。"
+
+#: classes/class-upme-save.php:148
+msgid "Your profile was updated."
+msgstr "您的个人资料已经更新。"
+
+#: classes/class-upme-save.php:150
+msgid "Profile was updated."
+msgstr "个人资料已经更新。"
+
+#: classes/class-upme.php:11
+msgid "Text"
+msgstr "Text文本"
+
+#: classes/class-upme.php:12
+msgid "Image Upload"
+msgstr "图片上传"
+
+#: classes/class-upme.php:13
+msgid "Textarea"
+msgstr "Textarea多行文本"
+
+#: classes/class-upme.php:14
+msgid "Select Dropdown"
+msgstr "选择下拉"
+
+#: classes/class-upme.php:15
+msgid "Radio"
+msgstr "声音"
+
+#: classes/class-upme.php:16
+msgid "Checkbox"
+msgstr "复选框"
+
+#: classes/class-upme.php:17 classes/class-upme.php:57
+msgid "Password"
+msgstr "密码"
+
+#: classes/class-upme.php:27 classes/class-upme.php:49
+msgid "Username"
+msgstr "用户名"
+
+#: classes/class-upme.php:35
+msgid "E-mail"
+msgstr "电子邮件"
+
+#: classes/class-upme.php:38
+msgid "A password will be e-mailed to you."
+msgstr "密码将通过电子邮件发送给您。"
+
+#: classes/class-upme.php:66
+msgid "Profile Info"
+msgstr "资料信息"
+
+#: classes/class-upme.php:75
+msgid "Profile Picture"
+msgstr "头像"
+
+#: classes/class-upme.php:87
+msgid "First Name"
+msgstr "名字"
+
+#: classes/class-upme.php:99
+msgid "Last Name"
+msgstr "姓氏"
+
+#: classes/class-upme.php:111
+msgid "Display Name"
+msgstr "显示名称"
+
+#: classes/class-upme.php:123
+msgid "About / Bio"
+msgstr "关于/个人简历"
+
+#: classes/class-upme.php:136
+msgid "Custom Photo 1"
+msgstr "自定义图片1"
+
+#: classes/class-upme.php:145
+msgid "Contact Info"
+msgstr "联系方式"
+
+#: classes/class-upme.php:154
+msgid "Email Address"
+msgstr "电子邮件地址"
+
+#: classes/class-upme.php:159
+msgid "Send E-mail"
+msgstr "发送E-mail"
+
+#: classes/class-upme.php:167
+msgid "Website"
+msgstr "网站"
+
+#: classes/class-upme.php:176
+msgid "Social Profiles"
+msgstr "社会化资料"
+
+#: classes/class-upme.php:185
+msgid "Facebook"
+msgstr ""
+
+#: classes/class-upme.php:190
+msgid "Connect via Facebook"
+msgstr "通过Facebook连接"
+
+#: classes/class-upme.php:198
+msgid "Twitter Username"
+msgstr "Twitter用户名"
+
+#: classes/class-upme.php:203
+msgid "Connect via Twitter"
+msgstr "通过Twitter连接"
+
+#: classes/class-upme.php:211
+msgid "Google+"
+msgstr ""
+
+#: classes/class-upme.php:216
+msgid "Connect via Google+"
+msgstr "通过Google+连接"
+
+#: classes/class-upme.php:221 classes/class-upme.php:1230
+msgid "Account Info"
+msgstr "帐户信息"
+
+#: classes/class-upme.php:230
+msgid "New Password"
+msgstr "新密码"
+
+#: classes/class-upme.php:334 js/upme-custom-js.php:39
+#: js/upme-custom-js.php:44
+msgid "View Profile"
+msgstr "查看资料"
+
+#: classes/class-upme.php:536
+msgid "first"
+msgstr "最前"
+
+#: classes/class-upme.php:538
+msgid "previous"
+msgstr "前一个"
+
+#: classes/class-upme.php:548
+msgid "next"
+msgstr "下一个"
+
+#: classes/class-upme.php:550
+msgid "last"
+msgstr "最后"
+
+#: classes/class-upme.php:589
+msgid "Search Users"
+msgstr "搜索用户"
+
+#: classes/class-upme.php:592
+msgid "ID, username, e-mail address or site URL"
+msgstr "ID，用户名，电子邮件地址或网站网址"
+
+#: classes/class-upme.php:596
+msgid "Filter"
+msgstr "过滤"
+
+#: classes/class-upme.php:675 js/upme-custom-js.php:52
+msgid "Edit Profile"
+msgstr "编辑个人资料"
+
+#: classes/class-upme.php:723
+msgid "No users found matching the selected criteria."
+msgstr "没有发现符合选定条件的用户。"
+
+#: classes/class-upme.php:880 classes/class-upme.php:1345
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr "除非你想更改密码。否则请留空。"
+
+#: classes/class-upme.php:882 classes/class-upme.php:1347
+msgid "Type your new password again."
+msgstr "再次输入您的新密码。"
+
+#: classes/class-upme.php:894
+msgid ""
+"You can sign up at <a href=\"http://en.gravatar.com/\">Gravatar</a> to have "
+"a globally recognized avatar or upload a custom profile picture below."
+msgstr ""
+"你可以在<a href=\"http://en.gravatar.com/\">Gravatar</a> 注册使用一个全球公认"
+"的头像或者自定义上传一个头像。"
+
+#: classes/class-upme.php:904
+msgid "Choose File"
+msgstr "选择文件"
+
+#: classes/class-upme.php:921 classes/class-upme.php:1274
+#: classes/class-upme.php:1356
+msgid "Hide from Public"
+msgstr "对公众隐藏"
+
+#: classes/class-upme.php:927 classes/class-upme.php:1362
+#, php-format
+msgid "%s must be publicly visible."
+msgstr "%s 必须是公开可见的。"
+
+#: classes/class-upme.php:940
+msgid "Update Profile"
+msgstr "更新个人资料"
+
+#: classes/class-upme.php:1003
+msgid "Name"
+msgstr "名称"
+
+#: classes/class-upme.php:1120
+#, php-format
+msgid "%s entry"
+msgstr "%s 个"
+
+#: classes/class-upme.php:1122
+#, php-format
+msgid "%s entries"
+msgstr "%s 个"
+
+#: classes/class-upme.php:1132
+#, php-format
+msgid "%s comment"
+msgstr "%s 条评论"
+
+#: classes/class-upme.php:1134
+#, php-format
+msgid "%s comments"
+msgstr "%s 条评论"
+
+#: classes/class-upme.php:1187
+msgid "Your display name will appear here."
+msgstr "您显示的名称将出现在这里。"
+
+#: classes/class-upme.php:1375
+msgid "Register"
+msgstr "注册"
+
+#: classes/class-upme.php:1472
+msgid "Remember me"
+msgstr "记住我"
+
+#: classes/class-upme.php:1487
+msgid "Log In"
+msgstr "登录"
+
+#: widgets/upme-widgets.php:9
+msgid "Displays a list of latest registered users."
+msgstr "显示某个目录下的最新注册用户。"
+
+#: widgets/upme-widgets.php:13
+msgid "UPME - Latest Members"
+msgstr "UPME - 最新成员"
+
+#: widgets/upme-widgets.php:43
+#, php-format
+msgid "View %s Profile"
+msgstr "查看 %s 的个人资料"
+
+#: widgets/upme-widgets.php:101
+msgid "Latest Registered Members"
+msgstr "最新注册会员"
+
+#: widgets/upme-widgets.php:105
+msgid "Title:"
+msgstr "标题："
+
+#: widgets/upme-widgets.php:110
+msgid "How many users to show:"
+msgstr "有多少用户显示："
+
+#: widgets/upme-widgets.php:115
+msgid "Profile picture size:"
+msgstr "资料图片大小："
+
+#: widgets/upme-widgets.php:120
+msgid "Link to user profile:"
+msgstr "链接到用户资料："

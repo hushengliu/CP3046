@@ -1,0 +1,842 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"Project-Id-Version: lively-chat-support\n"
+"Language: ru\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: admin/includes/header.php:40
+msgid "Visitors"
+msgstr "Lankytojai"
+
+#: admin/includes/header.php:42
+msgid "Agents"
+msgstr "Agentai"
+
+#: admin/includes/header.php:44
+msgid "Triggers"
+msgstr "Trigeriai"
+
+#: admin/includes/header.php:45
+msgid "Surveys"
+msgstr "Apklausos"
+
+#: admin/includes/header.php:46 admin/tabs/schedule.php:74
+#: admin/tabs/schedule.php:116
+msgid "SMS"
+msgstr "SMS"
+
+#: admin/includes/header.php:47
+msgid "Settings"
+msgstr "Nustatymai"
+
+#: admin/includes/header.php:49
+msgid "Help"
+msgstr "Pagalba"
+
+#: admin/includes/header.php:59
+msgid "Your changes have been saved."
+msgstr "Nustatymai įrašyti"
+
+#: admin/tabs/agents.php:9
+msgid "Customer Support Agents"
+msgstr "Techninio palaikymo agentai"
+
+#: admin/tabs/agents.php:38
+msgid "Avatar Url"
+msgstr "Atvaizdo nuoroda"
+
+#: admin/tabs/agents.php:80
+msgid "Save Agents"
+msgstr "Įrašyti agentus"
+
+#: admin/tabs/email_required.php:1
+msgid "Just a quick setup..."
+msgstr "Greitas nustatymas..."
+
+#: admin/tabs/email_required.php:5
+msgid "Which <b>email address</b> should your leads be emailed to?"
+msgstr "Nurodykite <b>el. pašto adresą</b> į kurį bus siunčiami visi laiškai?"
+
+#: admin/tabs/email_required.php:8
+msgid ""
+"By setting up LivelyChatSupport, you will receive Lively Chat Support "
+"updates."
+msgstr ""
+"Pasirinkite LivelyChatSupport, tuomet programos atnaujinimus gausite vos jie "
+"bus išleisti."
+
+#: admin/tabs/email_required.php:9
+msgid "You can opt out at any time. We will NOT sell your email address."
+msgstr ""
+"Prenumeratą nutraukti galite bet kuriuo metu. Mes neperduodame Jūsų pateiktų "
+"duomenų trečiosioms šalims."
+
+#: admin/tabs/email_required.php:14
+msgid "What's your <b>name</b>?"
+msgstr "Jūsų <b>vardas</b>?"
+
+#: admin/tabs/settings.php:25
+msgid "Lively Chat Theme"
+msgstr "Lively Chat Тema"
+
+#: admin/tabs/settings.php:29
+msgid "Colour"
+msgstr "Spalva"
+
+#: admin/tabs/settings.php:34 admin/tabs/settings.php:108
+msgid "Call To Action Text"
+msgstr "Siuntimo mygtuko užrašas"
+
+#: admin/tabs/settings.php:39 admin/tabs/settings.php:113
+msgid "Call To Action Image"
+msgstr "Siunimo mygtuko atvaizdas"
+
+#: admin/tabs/settings.php:41 admin/tabs/settings.php:115
+msgid "Use pre-built"
+msgstr "Naudoti numatytą"
+
+#: admin/tabs/settings.php:42 admin/tabs/settings.php:116
+msgid "Choose file"
+msgstr "Pasirinkite"
+
+#: admin/tabs/settings.php:42 admin/tabs/settings.php:116
+msgid "or"
+msgstr "arba"
+
+#: admin/tabs/settings.php:43 admin/tabs/settings.php:117
+msgid "No image"
+msgstr "Be atvaizdo"
+
+#: admin/tabs/settings.php:59 admin/tabs/settings.php:132
+msgid "Hint: You can drag the image vertically."
+msgstr "Dėmesio: Jūs galite slinkti atvaizdą aukštyn arba žemyn."
+
+#: admin/tabs/settings.php:64
+msgid "Position on Screen"
+msgstr "Padėtis ekrane"
+
+#: admin/tabs/settings.php:65
+msgid "Hint: Aligns image if present."
+msgstr "Dėmesio: jei pasirinktas atvaizdas jis bus sulygiuotas."
+
+#: admin/tabs/settings.php:69
+msgid "Bottom Right"
+msgstr "Apatinis dešinys kampas"
+
+#: admin/tabs/settings.php:68
+msgid "Bottom Left"
+msgstr "Apatinis kairys kampas"
+
+#: admin/tabs/settings.php:74
+msgid "Email responses to which address?"
+msgstr "Kokiu el. pašto adresu siųsti atsakymus?"
+
+#: admin/tabs/settings.php:81
+msgid "Show \"Powered By Lively Chat\""
+msgstr "Rodyti eilutę \"Palaikoma By Lively Chat\""
+
+#: admin/tabs/schedule.php:135 admin/tabs/settings.php:85
+#: admin/tabs/settings.php:142
+msgid "Save My Settings"
+msgstr "Išsaugoti nustatymus"
+
+#: admin/tabs/settings.php:104
+msgid "Offline Mode (aka. the perfect lead-collection form)"
+msgstr "Režimas Neprisijungęs"
+
+#: admin/tabs/settings.php:136
+msgid "Thank you text after submission"
+msgstr "Padėkos tekstas po išsiuntimo"
+
+#: admin/tabs/settings.php:138
+msgid "Hint: Basic HTML is acceptable."
+msgstr "Dėmesio: galite naudoti pgrindinius HTML kodus."
+
+#: admin/tabs/schedule.php:16
+msgid "Online According to Office Hours"
+msgstr "Prisijungęs atsižvelgiant į darbo valandas"
+
+#: admin/tabs/schedule.php:17
+msgid "Always Online"
+msgstr "Visada prisijungęs"
+
+#: admin/tabs/schedule.php:19
+msgid "Always Online via SMS"
+msgstr "Visada prisijungęs naudojant SMS"
+
+#: admin/tabs/schedule.php:21
+msgid "Always Offline"
+msgstr "Visada neprisijungęs"
+
+#: admin/tabs/schedule.php:22
+msgid "Don't Show LivelyChatSupport At All"
+msgstr "Visiškai slėpti LivelyChat"
+
+#: admin/tabs/schedule.php:33
+msgid "Day"
+msgstr "Diena"
+
+#: admin/tabs/schedule.php:34
+msgid "Open At"
+msgstr "Atsidaro"
+
+#: admin/tabs/schedule.php:35
+msgid "Close At"
+msgstr "Užsidaro"
+
+#: admin/tabs/schedule.php:36
+msgid "Who Should Respond?"
+msgstr "Kas privalo atsakyti?"
+
+#: admin/tabs/schedule.php:37
+msgid "Contact Method"
+msgstr "Susisiekimo būdas"
+
+#: admin/tabs/schedule.php:48 admin/tabs/schedule.php:89
+msgid "Sunday"
+msgstr "Sekmadienis"
+
+#: admin/tabs/schedule.php:49 admin/tabs/schedule.php:90
+msgid "Monday"
+msgstr "Pirmadienis"
+
+#: admin/tabs/schedule.php:50 admin/tabs/schedule.php:91
+msgid "Tuesday"
+msgstr "Antradienis"
+
+#: admin/tabs/schedule.php:51 admin/tabs/schedule.php:92
+msgid "Wednesday"
+msgstr "Trečiadienis"
+
+#: admin/tabs/schedule.php:52 admin/tabs/schedule.php:93
+msgid "Thursday"
+msgstr "Ketvirtadienis"
+
+#: admin/tabs/schedule.php:53 admin/tabs/schedule.php:94
+msgid "Friday"
+msgstr "Penktadienis"
+
+#: admin/tabs/schedule.php:54 admin/tabs/schedule.php:95
+msgid "Saturday"
+msgstr "Šeštadienis"
+
+#: admin/tabs/schedule.php:65 admin/tabs/schedule.php:107
+msgid "Anyone"
+msgstr "Nesvarbu"
+
+#: admin/tabs/schedule.php:76 admin/tabs/schedule.php:118
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: admin/tabs/schedule.php:81 admin/tabs/schedule.php:123
+msgid "Delete"
+msgstr "Trinti"
+
+#: admin/tabs/schedule.php:131
+msgid "Add Another Time Slot"
+msgstr "Pridėti dar vieną darbo grafiką"
+
+#: admin/tabs/settings.php:186
+msgid "History"
+msgstr "Istorija"
+
+#: admin/tabs/settings.php:187
+msgid "Danger Zone: This action is irreversible."
+msgstr "Dėmesio: šios funkcijos neįmanoma atšaukti."
+
+#: admin/tabs/settings.php:190
+msgid "Delete All Conversation and Visitor History"
+msgstr "Ištrinti visą susirašinėjimų istoriją"
+
+#: admin/tabs/sms.php:70
+msgid "Chat with your visitors from your phone."
+msgstr "Bendraukite su lankytojais tiesiai iš savo telefono."
+
+#: admin/tabs/sms.php:81
+msgid "Are you always on the go - not in front of your computer?"
+msgstr "Retai būnate prie kompiuterio?"
+
+#: admin/tabs/sms.php:84
+msgid ""
+"With SMS, your visitor's messages are sent to your phone as text messages - "
+"simply reply as you would to any sms."
+msgstr ""
+"Pasirinkus SMS funkciją lankytojų užklausos bus siunčiamos jums į telefoną, "
+"o atsakyti į jas galėsite įprasta SMS žinute."
+
+#: admin/tabs/sms.php:87
+msgid ""
+"SMS chat is a premium feature and REQUIRES YOUR OWN <a href=\"https://www."
+"twilio.com\">TWILIO</a> ACCOUNT (usually costs $.01/message)."
+msgstr ""
+"SMS tai mokama funkcija ir reikalauja JŪSŲ ASMENINĖS <a href=\"https://www."
+"twilio.com\">TWILIO</a> SĄSKAITOS (įprasta kaina: $0.01/pranešimas)."
+
+#: admin/tabs/sms.php:100 admin/tabs/surveys.php:124
+#: admin/tabs/triggers.php:111
+msgid "Thanks for your support!"
+msgstr "Dėkojame už palaikymą!"
+
+#: admin/tabs/sms.php:107
+msgid "Already have an activation code for SMS? Enter it here:"
+msgstr "Jau turite SMS funkcijos aktyvavimo kodą? Įveskite jį čia:"
+
+#: admin/tabs/surveys.php:96
+msgid "Get information quickly and unintrusively from your visitors."
+msgstr "Informaciją iš lankytojų gaukite greitai ir nepastebimai."
+
+#: admin/tabs/surveys.php:99
+msgid "Surveys are quick, fun ways to question your visitors."
+msgstr ""
+"Apklausos tai greitas ir patogus būdas užduoti Jums rūpimus klausimus savo "
+"lankytojams."
+
+#: admin/tabs/surveys.php:102
+msgid ""
+"Visitors love to complete quick surveys, if they know it will benefit them "
+"in the future."
+msgstr ""
+"Lankytojams patinka pildyti trumpas apklausas jei žino, kad tai atneš naudos "
+"ir jiems patiems."
+
+#: admin/tabs/surveys.php:105
+msgid "They are also a great lead in to a conversation."
+msgstr "Tai taip pat geras būdas lankytoją paversti pirkėju."
+
+#: admin/tabs/surveys.php:111
+msgid "Surveys are a premium feature."
+msgstr "Apklausos yra mokama paslauga."
+
+#: admin/tabs/surveys.php:131
+msgid "Already have an activation code for Surveys? Enter it here:"
+msgstr "Jau turite Apklausų funkcijos aktyvavimo kodą? Įveskite jį čia:"
+
+#: admin/tabs/triggers.php:83
+msgid "Automatically start conversations with your visitors."
+msgstr "Automatiškai pradėti pokalbį su Jūsų lankytojais."
+
+#: admin/tabs/triggers.php:86
+msgid ""
+"Triggers automatically start a conversation with your visitors based on the "
+"rules you provide."
+msgstr ""
+"Trigerių pagalba automatiškai pradedamas pokalbis su Jūsų klientais kai "
+"aptinkamos sąlygos kurias nurodėte."
+
+#: admin/tabs/triggers.php:89
+msgid ""
+"Once the user responds, you take over the conversation (these aren't "
+"automated robots)."
+msgstr ""
+"Kai lankytojas atsako bendravimas perleidžiamas Jums (robotas su juo "
+"nebebendrauja)."
+
+#: admin/tabs/triggers.php:92
+msgid ""
+"They are a great way to start a conversation, much like you would if you "
+"walked into a physical store."
+msgstr ""
+"Tai puikus būdas bendrauti su klientais, praktiškai taip pat lyg jie "
+"lankytūsi realioje parduotuvėje."
+
+#: admin/tabs/triggers.php:98
+msgid "Triggers are a premium feature."
+msgstr "Trigeriai yra mokama funkcija."
+
+#: admin/tabs/triggers.php:118
+msgid "Already have an activation code for Triggers? Enter it here:"
+msgstr "Jau turite Trigerių funkcijos aktyvavimo kodą? Įveskite jį čia:"
+
+#: admin/tabs/visitors.php:28
+msgid "Start"
+msgstr "Nuo"
+
+#: admin/tabs/visitors.php:31 admin/tabs/visitors.php:41
+msgid "Today"
+msgstr "Šiandien"
+
+#: admin/tabs/visitors.php:32 admin/tabs/visitors.php:42
+msgid "Yesterday"
+msgstr "Vakar"
+
+#: admin/tabs/visitors.php:33 admin/tabs/visitors.php:43
+msgid "1 Week Ago"
+msgstr "Prieš savaitę"
+
+#: admin/tabs/visitors.php:38
+msgid "Finish"
+msgstr "Iki"
+
+#: admin/tabs/visitors.php:54
+msgid "Choose a visitor on the left."
+msgstr "Kairėje pasirinkite lankytoją."
+
+#: admin/tabs/visitors.php:69
+msgid "Delete This Conversation"
+msgstr "Ištrinti šį pokalbį"
+
+#: admin/tabs/visitors.php:70
+msgid ""
+"Delete all convos on the <a href=\"admin.php?"
+"page=livelychatsupport&tab=settings#delete_convos_anchor\">Settings</a> page."
+msgstr ""
+"Visus pokalbius ištrinti galite pasinaudodami funkcija<a href=\"admin.php?"
+"page=livelychatsupport&tab=settings#delete_convos_anchor\">Nustatymai</a>."
+
+#: admin/tabs/visitors.php:77 admin/tabs/visitors.php:87
+msgid "IP:"
+msgstr "IP аdresas:"
+
+#: admin/tabs/visitors.php:78 admin/tabs/visitors.php:88
+msgid "Last seen:"
+msgstr "Paskutinis apsilankymas:"
+
+#: admin/tabs/visitors.php:85
+msgid "Location:"
+msgstr "Vieta:"
+
+#: admin/tabs/visitors.php:86
+msgid "Email:"
+msgstr "El. pašto adresas:"
+
+#: admin/tabs/visitors.php:95
+msgid "Now visiting:"
+msgstr "Dabar lankosi:"
+
+#: admin/tabs/visitors.php:113 chatbox/includes/structure.php:132
+msgid "Type here and press <Enter>"
+msgstr "Įrašykite klausimą ir spustelėkite <Enter>"
+
+#: admin/tabs/visitors.php:118
+msgid "You can't talk to this person because they haven't registered yet."
+msgstr "Su šiuo lankytoju negalite kalbėti nes jis dar neprisiregistravo."
+
+#: admin/tabs/visitors.php:121
+msgid "We'll be unlocking this feature in a future version."
+msgstr "Šia funkcija papildysime naujesnes programos versijas."
+
+#: chatbox/includes/structure.php:52
+msgid "Next"
+msgstr "Toliau"
+
+#: chatbox/includes/structure.php:53
+msgid "Submit"
+msgstr "Siųsti"
+
+#: chatbox/includes/structure.php:54
+msgid "Prev Step"
+msgstr "Atgal"
+
+#: chatbox/includes/structure.php:76
+msgid "What is your name?"
+msgstr "Jūsų vardas?"
+
+#: chatbox/includes/structure.php:81
+msgid "What is your email?"
+msgstr "Jūsų el. pašto adresas?"
+
+#: chatbox/includes/structure.php:86
+msgid "What is your question?"
+msgstr "Jūsų klausimas?"
+
+#: chatbox/includes/structure.php:91
+msgid "Please provide a valid name, email, and question."
+msgstr "Prašome įvesti"
+
+#: chatbox/includes/structure.php:96
+msgid "Loading..."
+msgstr "Kraunama..."
+
+#: chatbox/includes/structure.php:101 chatbox/includes/structure.php:127
+msgid "Powered by LivelyChat"
+msgstr "Palaikoma LivelyChat"
+
+#: chatbox/includes/structure.php:128
+msgid "Delete History"
+msgstr "Ištrinti istoriją"
+
+#: shared/includes/functions.php:17
+msgid "Thanks for contacting us. We'll get back to you as soon as we can."
+msgstr "Dėkojame už klausimą, atsakysime kaip ymanoma greičiau."
+
+#: shared/includes/functions.php:18
+msgid "Chat With Us Now!"
+msgstr "Klauskite tiesiog dabar!"
+
+#: shared/includes/functions.php:19
+msgid "Need help? Email Us Here!"
+msgstr "Reikia pagalbos? Susisiekite su mumis el. paštu!"
+
+#. Plugin Name of the plugin/theme
+msgid "Lively Chat Support"
+msgstr "Lively Chat Support"
+
+#. Description of the plugin/theme
+msgid ""
+"The best FREE live chat for your WP website (supports images) - forget the "
+"hosted chat services."
+msgstr ""
+"Geriausias NEMOKAMAS bendravimo įrankis Jūsų WP svetainei (su atvaizdų "
+"palaikymu) - nebevarkite su mokamais ar kituose serveriuose esančiais "
+"įrankiais."
+
+#. Author of the plugin/theme
+msgid "Dallas Read"
+msgstr "Dalas Ridas"
+
+#. Author URI of the plugin/theme
+msgid "http://www.DallasRead.com"
+msgstr "http://www.DallasRead.com"
+
+#. Tags of the plugin/theme
+msgid "live chat, live support, online chat, customer service"
+msgstr "pokalbiai realiu laiku, karštoji palaikymo linija."
+
+#: admin/tabs/email_required.php:19
+msgid "Save My LivelyChatSupport"
+msgstr "Išsaugoti mano LivelyChatSupport"
+
+#: admin/tabs/schedule.php:12
+msgid "Schedule & Office Hours"
+msgstr "Darbo laikas"
+
+#: admin/tabs/settings.php:161
+msgid "Chatbox Visibility"
+msgstr "Pokalių lauko rodymas"
+
+#: admin/tabs/settings.php:164
+msgid "Which pages should LivelyChat be shown on?"
+msgstr "Kuriuose puslapiuose rodyti pokalbių lauką?"
+
+#: admin/tabs/sms.php:109
+msgid "Activate SMS"
+msgstr "Aktyvuoti SMS funkciją"
+
+#: admin/tabs/sms.php:8
+msgid "For the SMS addon, there's some set up (I wish it could be easier...)."
+msgstr "SMS funkcija turi keletą nustatymų, kuriuos būtina sutvarkyti."
+
+#: admin/tabs/sms.php:11
+msgid ""
+"Visit the Users > Your Profile page to add your mobile phone number (where "
+"you want to receive the SMS's)."
+msgstr ""
+"Eikite Lankytojai > Jūsų profilis ir nurodykite savo telefono numerį kuriuo "
+"norite gauti SMS pranešimus."
+
+#: admin/tabs/sms.php:12
+msgid "Sign up at <a href=\"%s\" target=\"_blank\">Twilio.com</a>."
+msgstr "Registruokitės <a href=\"%s\" target=\"_blank\">Twilio.com</a>."
+
+#: admin/tabs/sms.php:13
+msgid ""
+"From the dashboard, copy your <b>ACCOUNT SID</b> and <b>AUTH TOKEN</b> into "
+"the boxes below."
+msgstr ""
+"Valdymo skydelyje rasite duomenis <b>ACCOUNT SID</b> ir <b>AUTH TOKEN</b> "
+"įveskite juos į laukelius esančius žemiau."
+
+#: admin/tabs/sms.php:15
+msgid "Buy a number"
+msgstr "Pirkti numerį"
+
+#: admin/tabs/sms.php:15
+msgid ""
+"You'll probably want a local number to avoid any long distance/international "
+"SMS charges."
+msgstr ""
+"Jums greičiausiai teks įsigyti lokalų numerį, jo dėka išvengsite padidinto "
+"SMS tarifo."
+
+#: admin/tabs/sms.php:16
+msgid "DON'T GET A TOLL FREE NUMBER - IT WILL NOT WORK."
+msgstr "DĖMESIO: NEMOKAMAS (TOLL FREE) NUMERIS NEVEIKS."
+
+#: admin/tabs/sms.php:16
+msgid "Place the phone number in the appropriate box below."
+msgstr "Įveskite telefono numerį į tam skirtą laukelį."
+
+#: admin/tabs/sms.php:19
+msgid ""
+"Click <b>Save My Credentials</b> on this page. You should receive an SMS "
+"confirming that everything's ready to go."
+msgstr ""
+"Spustelėkite <b>Išsaugoti mano duomenis</b>. Jei viskas nustatyta gerai "
+"gausite tai patvirtinantį SMS pranešimą."
+
+#: admin/tabs/sms.php:20
+msgid ""
+"Go to the <a href=\"%s\">Settings</a> page, visit the <b>LivelyChatSupport "
+"Hours</b> section (at the bottom) and switch it to <b>Always Online via SMS</"
+"b>!"
+msgstr ""
+"Eikite į <a href=\"%s\">Nustatymai</a>, pasirinkite skyrių<b>Darbo laikas "
+"LivelyChatSupport</b>ir pakeiskite parinktį į <b>Visada prisijungęs "
+"naudojant SMS</b>!"
+
+#: admin/tabs/sms.php:25
+msgid "What is your Twilio SID?"
+msgstr "Jūsų Twilio SID?"
+
+#: admin/tabs/sms.php:30
+msgid "What is your Twilio Auth Token?"
+msgstr "Jūsų Twilio Auth Token?"
+
+#: admin/tabs/sms.php:35
+msgid ""
+"What is your Twilio Phone Number? (only numbers... no spaces, brackets, or "
+"plus sign)"
+msgstr "Jūsų Twilio telefono numeris? (tik skaičiai be tarpų)"
+
+#: admin/tabs/surveys.php:133
+msgid "Activate Surveys"
+msgstr "Aktyvuoti Apklausas"
+
+#: admin/tabs/triggers.php:120
+msgid "Activate Triggers"
+msgstr "Aktyvuoti Trigerius"
+
+#: admin/tabs/visitors.php:97
+msgid "see all"
+msgstr "peržiūrėti visus"
+
+#: chatbox/includes/functions.php:476
+msgid "Website Form"
+msgstr "Svetainės forma"
+
+#: chatbox/includes/structure.php:97
+msgid "Send Email!"
+msgstr "Siųsti el. laišką!"
+
+#: chatbox/includes/structure.php:97
+msgid "Start Chatting Now!"
+msgstr "Pradėti pokalbį!"
+
+#: chatbox/includes/structure.php:112
+msgid "You're chatting with"
+msgstr "Jūs susirašinėjate su"
+
+#: admin/includes/header.php:6
+msgid "Use surveys to engage visitors!"
+msgstr "Naudokite Apklausas, taip pritrauksite klientus!"
+
+#: admin/includes/header.php:10
+msgid "Triggers engage visitors!"
+msgstr "Trigeriai pritraukia klientus!"
+
+#: admin/includes/header.php:14 admin/tabs/agents.php:92
+msgid "Need Multiple Agents?"
+msgstr "Reikia daugiau agentų?"
+
+#: admin/includes/header.php:18
+msgid "Chat with visitors from your phone!"
+msgstr "Bendraukite su lankytojais tiesiai iš savo telefono!"
+
+#: admin/includes/header.php:22
+msgid "Lively Chat Support? Donate!"
+msgstr "Lively Chat Support? Paremkite!"
+
+#: admin/includes/header.php:26
+msgid "Have you seen LivelyChatSupport.com?"
+msgstr "Ar jau lankėtės LivelyChatSupport.com?"
+
+#: admin/tabs/agents.php:13
+msgid ""
+"<strong>Phone Number</strong> - should include country code (eg. "
+"19998887777). "
+msgstr "<strong>Telefono numeris</strong> - Šalies kodas privalomas"
+
+#: admin/tabs/agents.php:16
+msgid ""
+"<strong>Email Address</strong> - Can be changed in the <a href=\"%s\">WP "
+"Users</a> section."
+msgstr ""
+"<strong>El. pašto adresas</strong> - Galima pakeisti skiltyje <a href=\"%s"
+"\">WP Vartotojai</a>."
+
+#: admin/tabs/agents.php:17
+msgid ""
+"<strong>Display Name</strong> - Shows in the \"You're Chatting With\" "
+"section of the chat box."
+msgstr ""
+"<strong>Rodomas vardas</strong> - rodomas pokalbio metu \"Jūs bendraujate su"
+"\"."
+
+#: admin/tabs/agents.php:19
+msgid ""
+"<strong>Active</strong> - When checked, the user can chat with visitors. At "
+"least 1 agent must be active for LivelyChatSupport to work."
+msgstr ""
+"<strong>Aktyvus</strong> - pasirinkus vartotojas gali bendrauti su "
+"lankytojais. Kad LivelyChatSupport veiktų reikia bent vieno aktyvaus agento."
+
+#: admin/tabs/agents.php:20
+msgid "To add more agents, purchase the addon below."
+msgstr "Jei reikia daugiau agentų įsigykite papildinį."
+
+#: admin/tabs/agents.php:22
+msgid "<strong>Default</strong> - The default Lively Chat Support agent."
+msgstr "<strong>Numatytasis</strong> - numatytasis agentas."
+
+#: admin/tabs/agents.php:31
+msgid "Active"
+msgstr "Aktyvus"
+
+#: admin/tabs/agents.php:32
+msgid "Default"
+msgstr "Numatytasis"
+
+#: admin/tabs/agents.php:33
+msgid "Email Address"
+msgstr "El. pašto adresas"
+
+#: admin/tabs/agents.php:34
+msgid "Display Name"
+msgstr "Rodomas vardas"
+
+#: admin/tabs/agents.php:36
+msgid "Phone Number"
+msgstr "Tel. Numeris"
+
+#: admin/tabs/agents.php:94
+msgid "Multiple Agents chat is a premium feature."
+msgstr "Reikia daugiau agentų? Tai mokama paslauga."
+
+#: admin/tabs/agents.php:95
+msgid "It is managed through the Wordpress Users pages."
+msgstr "Tai valdoma per WP Vartotojai skiltį"
+
+#: admin/tabs/agents.php:96 admin/tabs/sms.php:90 admin/tabs/surveys.php:114
+#: admin/tabs/triggers.php:101
+msgid ""
+"To purchase the addon, pay here and you'll receive an email with an "
+"activation code (which you'll enter in the box below):"
+msgstr ""
+"Norėdami įsigyti papildinį sumokėkite čia ir el. paštu gausite žinutę su "
+"aktyvavimo kodais (juos įvesite žemiau):"
+
+#: admin/tabs/agents.php:109
+msgid "Already have an activation code? Enter it here:"
+msgstr "Jau turite aktyvavimo kodą? Įveskite jį čia:"
+
+#: admin/tabs/agents.php:111
+msgid "Activate"
+msgstr "Aktyvuoti"
+
+#: admin/tabs/help.php:1
+msgid "Setup"
+msgstr "Nustatyti"
+
+#: admin/tabs/help.php:3
+msgid "Set up your agents on the <a href=\"%s\">Agents</a> page."
+msgstr "Nustatykite agentus skiltyje <a href=\"%s\">Agentai</a>."
+
+#: admin/tabs/help.php:4
+msgid "Set your office hours on the <a href=\"%s\">Schedule</a> page."
+msgstr "Darbo grafiką nustatykite skiltyje <a href=\"%s\">Darbo laikas</a>."
+
+#: admin/tabs/help.php:5
+msgid ""
+"Visit the <a href=\"%s\">Settings</a> page to change the appearance of your "
+"chat box."
+msgstr ""
+"Pasirinkite skiltį <a href=\"%s\">Nustatymai</a> ir nustatykite pokalbių "
+"lauko išvaizdą."
+
+#: admin/tabs/help.php:6
+msgid "Chat with your visitors."
+msgstr "Bendraukite su savo lankytojais."
+
+#: admin/tabs/help.php:7
+msgid "Purchase an addon (SMS, Surveys, Triggers, or Multiple Agents)!"
+msgstr "Įsigykite papildinius (SMS, Apklausos, Тrigeriai arba Agentai)!"
+
+#: admin/tabs/help.php:10
+msgid "Need extra help?"
+msgstr "Reikia skubios pagalbos?"
+
+#: admin/tabs/help.php:12
+msgid ""
+"Is your question already on the <a href=\"%s\">Wordpress Plugin Forum</a>?"
+msgstr ""
+"Gal Jums rūpimas klausimas jau yra <a href=\"%s\">Wordpress Plugin Forum</a>?"
+
+#: admin/tabs/help.php:13
+msgid "Visit <a href=\"%s\">LivelyChatSupport.com</a>"
+msgstr "Apsilankykite <a href=\"%s\">LivelyChatSupport.com</a>"
+
+#: admin/tabs/help.php:14
+msgid "Email dallas at excitecreative.ca."
+msgstr "Siūskite užklausą adresu dallas@excitecreative.ca."
+
+#: admin/tabs/schedule.php:27
+msgid ""
+"Is it <b>%s</b>? If not, change your timezone on the <a href=\"%s\">General "
+"Settings</a> page."
+msgstr ""
+"Ar tai <b>%s</b>? Jei ne tuomet pakeiskite svetainės laiko juostą skiltyją<a "
+"href=\"%s\">Bendri nustatymai</a>."
+
+#: admin/tabs/schedule.php:28
+msgid ""
+"Not seeing your agents? Make sure the \"Active\" column is ticked on the <a "
+"href=\"%s\">Agents</a> page."
+msgstr ""
+"Nematote savo agentų? Įsitikinkite, kad pasirinkote \"Аktyvus\" skiltyje <a "
+"href=\"%s\">Аgentai</a>."
+
+#: admin/tabs/sms.php:18
+msgid ""
+"When prompted by Twilio, fill in the box for <b>Messaging</b> with \"%s\". "
+"<b>/xmlrpc.php?from_twilio=true</b> must be on the end of the url for the "
+"SMS addon to work. Save your Twilio changes."
+msgstr ""
+"Twilio paprašius užpildykite <b>Messaging</b> lauką šituo \"%s\". <b>/xmlrpc."
+"php?from_twilio=true</b> nuorodos pabaiga turi atrodyti būtent taip tam, kad "
+"veiktų SMS funkcija. Išsaugokite nustatymus savo Twilio paskirtyje."
+
+#: admin/tabs/sms.php:62
+msgid "How do I respond to SMS messages?"
+msgstr "Kaip atsakyti į SMS žinutes?"
+
+#: admin/tabs/sms.php:63
+msgid ""
+"Each message you receive begins with a small token and a colon (eg. 4k2:)."
+msgstr ""
+"Kiekviena žinutė pradedama unikaliu trumpu kodu ir dvitaškiu (pvz.: 4k2:)."
+
+#: admin/tabs/sms.php:64
+msgid "To respond to a specific conversation, type \"4k2: YOUR MESSAGE HERE\"."
+msgstr ""
+"Norėdami atsakyti konkrečiam lankytojui įveskite jo kodą pvz.: \"4k2: JŪSŲ "
+"ŽINUTĖS TEKSTAS\"."
+
+#: admin/tabs/sms.php:65
+msgid ""
+"If you don't include this token in your response, we'll just send it back to "
+"the customer that last sent you a message."
+msgstr "Jei kodo neįvesite tuomet žinutė bus nusiųsta paskutiniam rašiusiam."
+
+#: admin/tabs/sms.php:75
+msgid ""
+"Your PHP installation doesn't support CURL, <b>which is required for the SMS "
+"addon</b>. Have a look at <a href=\"%s\">this guide</a> to install it."
+msgstr ""
+"Jūsų naudojama PHP versija nepalaiko CURL technologijos, <b>o ji yra būtina "
+"norint, kad SMS funkcija veiktų</b>. Teisingam nustatymui pasinaudokite <a "
+"href=\"%s\">šiuo vartotojo vadovu</a>."
+
+#: admin/includes/header.php:43
+msgid "Schedule"
+msgstr "Darbo laikas"
+
+#: admin/tabs/visitors.php:76 admin/tabs/visitors.php:84
+msgid "Agent:"
+msgstr "Agentas:"

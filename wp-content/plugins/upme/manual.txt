@@ -1,0 +1,77 @@
+
+Most Basic Usage:
+===================
+	
+	[upme]
+	
+Show Front-End Registration Form
+====================================
+
+	Use the shortcode:
+	
+	[upme_registration] anywhere.
+	
+How can I enable search users form?
+=============================================================
+
+	- Create new sidebar text widget
+	- add in it: [upme_search]
+	
+	To add the search form to existing page use this shortcode:
+	
+	[upme_search autodetect=off]
+	
+How can I make specific fields show in Registration form:
+=============================================================
+
+	- Open Profile customizer
+	- Select 'yes' on every field you want to 'Include in registration form'
+	
+Options that can be passed to shortcode:
+==========================================
+
+	id
+	view
+	width
+	group
+	show_stats
+	show_social_bar
+	use_in_sidebar
+	
+1. (id) Usage Manual
+======================
+
+	[upme id=X] retrieves a specific profile per passed user ID
+	[upme id=author] retrieves post author profile
+
+2. (view) Usage Manual
+========================
+
+	[upme view=X,X,X] a comma seperated list of profile fields (positions/IDs) that you
+	want to be included only in the profile view.
+	
+	[upme view=compact] Hides all profile fields, and shows a compact style profile view.
+	
+3. (group) Usage Manual
+=========================
+
+	[upme group=user_1,user_2,user_3,etc] To display multiple profiles for multiple users,
+	pass a comma seperated list of all user IDs you want to retrieve and display.
+	
+	[upme group=all] Returns/Display All User Profiles in one page ordered by latest
+	registered (Sign up date)
+	
+4. (show_stats) Usage Manual
+==============================
+
+	[upme show_stats=no] To hide user statistics like number of entries, or number of comments
+
+5. (show_social_bar) Usage Manual
+===================================
+
+	[upme show_social_bar=no] To hide the social bar (social icons) from profile view.
+
+6. (use_in_sidebar) Usage Manual
+===================================
+
+	[upme use_in_sidebar=1] Show the profile/form in sidebar widget beautifully!
